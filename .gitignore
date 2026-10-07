@@ -1,0 +1,25 @@
+# Signing material — never commit.
+signing/
+*.p12
+*.cer
+*.p7b
+*.csr
+*.keystore
+
+# Workout backups hold real GPS routes.
+*.orbup
+
+# Machine-local
+local.properties
+.idea/
+.DS_Store
+
+# Build output and dependencies
+.hvigor/
+oh_modules/
+build/
+.preview/
+.cxx/
+.test/
+*.hap
+*.hsp

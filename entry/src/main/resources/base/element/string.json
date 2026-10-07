@@ -1,0 +1,1140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "OutRun entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OutRun running tracker"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OutRun"
+    },
+    {
+      "name": "app_name",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Timeline"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Settings"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "Cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "Save",
+      "value": "Save"
+    },
+    {
+      "name": "Continue",
+      "value": "Continue"
+    },
+    {
+      "name": "Delete",
+      "value": "Delete"
+    },
+    {
+      "name": "Loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Loading... Please Do Not Close"
+    },
+    {
+      "name": "Done",
+      "value": "Done"
+    },
+    {
+      "name": "Standard",
+      "value": "Standard"
+    },
+    {
+      "name": "Okay",
+      "value": "Okay"
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "No Data Available"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "There seems to be nothing here."
+    },
+    {
+      "name": "Yes",
+      "value": "Yes"
+    },
+    {
+      "name": "No",
+      "value": "No"
+    },
+    {
+      "name": "Next",
+      "value": "Next"
+    },
+    {
+      "name": "Finish",
+      "value": "Finish"
+    },
+    {
+      "name": "Skip",
+      "value": "Skip"
+    },
+    {
+      "name": "Grant",
+      "value": "Grant"
+    },
+    {
+      "name": "Open",
+      "value": "Open"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Try Again"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Turn Off"
+    },
+    {
+      "name": "Edit",
+      "value": "Edit"
+    },
+    {
+      "name": "Discard",
+      "value": "Discard"
+    },
+    {
+      "name": "Close",
+      "value": "Close"
+    },
+    {
+      "name": "Start",
+      "value": "Start"
+    },
+    {
+      "name": "Stop",
+      "value": "Stop"
+    },
+    {
+      "name": "All",
+      "value": "All"
+    },
+    {
+      "name": "NotSet",
+      "value": "Not Set"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Workout is being recorded"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "You can't close this menu while recording a workout. Do you want to stop the workout or go on?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Stop recording"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Save"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Do you want to save or discard the workout?"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Discard"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Are you sure you want to discard your workout? The data cannot be recovered."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Save instead"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Waiting for GPS"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "The GPS signal is not accurate enough for a sufficient route quality, finding an accurate signal can take a couple of seconds to a minute. If this is a common phenomenon where you live try adjusting the needed accuracy in settings."
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Re-Center"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "There was an error in the logic supposed to construct the workout."
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Your Workouts"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Workout"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "What kind of workout do you want to record?"
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Enter Manually"
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Finished Workout"
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Your workout was successfully saved."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Unfortunately your workout could not be saved."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "The app is now continuing to record your workout."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Unfortunately your workout could not be continued."
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "There was an error while trying to display statistics about this workout, please try again."
+    },
+    {
+      "name": "Workout",
+      "value": "Workout"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Distance"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Steps"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Pedal Strokes"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Duration"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Active Duration"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Pause Duration"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Start Date"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Current Speed"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Avg. Speed"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Burned Calories"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "R. Pace"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "T. Pace"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "New Workout"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Type"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Running"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Walking"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Cycling"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Skating"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Hiking"
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Unknown"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Race"
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Comment"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "This Workout was modified or manually added by a person, so the data might be inaccurate or even fake."
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Pauses"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Pause"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Auto Pause"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Resume"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Auto Resume"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Lap"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Marker"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Segment"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Unknown"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Date"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filter"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Is Race"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Has Route"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Sort by"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Order"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Descending"
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Add to Huawei Health"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Could not add workout to Huawei Health, please try again later."
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Remove from Huawei Health"
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Could not remove workout from Huawei Health, please try again later or check in the Huawei Health app. It is possible that the workout was not added to Huawei Health by OutRun, which means we cannot modify it."
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Some workouts saved in this app were recently removed from Huawei Health, but are still saved here, you can sync them again in Settings or delete them manually."
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Distance"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Altitude Over Time"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Altitude"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Ascending"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Descending"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Time"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Duration"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Start Time"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "End Time"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Speed"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Avg. Speed"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Top Speed"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Speed Over Time"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Burned Energy"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Total Energy"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Route"
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Delete Workout?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Do you really want to delete the workout, you cannot restore it once deleted?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Delete in Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Do you also want to delete the workout saved in Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "There was an Error while trying to delete the workout from the app."
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "There was an Error while trying to delete the workout from Huawei Health, you can still delete it in the Huawei Health app."
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "waiting"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "ready"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "recording"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "paused"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "auto paused"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Your Route"
+    },
+    {
+      "name": "Settings",
+      "value": "Settings"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "User Settings"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Name"
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Weight"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "This App needs your weight to calculate an estimated value of burned energy during a workout. Providing your name is fully optional."
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Huawei Health Preferences"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "If the Sync options are enabled the app tries to synchronise with Huawei Health, so new data by this app is automatically saved to the Health App and if the weight in Huawei Health changes it automatically gets adjusted here too.\n\nShould the 'Auto Import Workouts' option be enabled, the app tries to automatically import new workouts added by other apps into the local database.\n\n'Sync All Unsynced Workouts' synchronises all Workouts in this app, not already in synced, to Huawei Health."
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Sync Workouts"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Sync Weight"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Auto Import Workouts"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Import from Huawei Health"
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Sync All Unsynced Workouts"
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "All unsynced workouts were successfully synced with Huawei Health."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "There was an error while trying to sync all unsynced workouts with Huawei Health, some workouts may have not been synced."
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "It appears that all workouts are already synced."
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Data Preferences"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Backups in OutRun, probably unlike in most other apps, are just files, that you do not need special tools to insert into the app or transfer to another device. They also stay local (unless you save them in the cloud).\n\nWhen creating a backup you will be presented with a '.orbup' file that you can share to whatever other app you want to. Be aware, that the data inside of that file is not encrypted though, sending it to someone or uploading it to a service can compromise your privacy, so please keep that in mind.\n\nTo import a backup just select a '.orbup' file from wherever you previously saved it, the app will then import all the workouts contained in the backup, making sure there are no duplicates automatically."
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Create Backup"
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Import Backup Data"
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "The unique workouts from your backup were imported, workouts that already exist in this apps data base were left out."
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Could not properly read the backup, please reach out to support for additional information."
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Importing unique workouts"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Exporting workouts"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Delete all data"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Delete Everything?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Are you sure you want to delete all the data stored by this app? This includes any of the workouts you recorded and all the settings you made. No workout data can be restored if not backed up in Huawei Health and your settings will be permanently lost."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Delete Huawei Health Data?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Do you want to keep the workouts you recorded in the Huawei Health app, or do you want to delete those as well?"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Could not delete"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "There was an error while trying to delete your data in the app, some might still be there. Please try again later."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Could not delete"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "There was an error while trying to delete your data in Huawei Health, some might still be there. You can delete remaining data inside the Huawei Health app."
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Unit Preferences"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Distance Unit"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Altitude Unit"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Speed Unit"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Energy Unit"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Weight Unit"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Choose Unit"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "The chosen unit will be used to display data"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Recording Preferences"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Standard Type"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Whichever workout type you choose will be the standard for recording a new workout. You can still select a different type by long pressing the plus button or pressing the type label on the recording screen"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Show Map"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "GPS Accuracy"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Desired Accuracy"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "When receiving GPS signals they are sent with a certain accuracy for determining if the data is adequate for use. Depending on how you set this filter will your recorded workouts vary in quality.\n\nIdeally the filter should stay at 'Standard', but should there be complications with your data (e.g. it being too inaccurate or everything being filtered out) you can try one of the others."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Standard"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "High"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Acceptable"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Last Resort"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Off (not recommended)"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Display Pace"
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Display Rolling Speed"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Should you experience any kind of crashes or similar behaviour while recording a workout, you should try to turn 'Show Map' to off, because most of these crashes known where related to the map drawing too much power.\n\nIf 'Display Pace' is enabled instead of showing the speed the pace is shown. Should 'Display Rolling Speed' be on the speed or pace displayed are an average of the last kilometer, if not the current speed or the total pace are shown."
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Support"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Terms of Service"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Privacy Policy"
+    },
+    {
+      "name": "Settings_Email",
+      "value": "Email"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "There seems to be no E-Mail app on your phone, or HarmonyOS cannot open it, you can still send an E-Mail to support@tadris.de for assistance with any problems regarding the app."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "View Source Code"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "The link could not be opened due to the system rejecting it."
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "App Info"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Contribution"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Maintainers"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Code Contributors"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Translators"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "App Version"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Release Status"
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Import"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "There was an Error while trying to fetch workouts from Huawei Health."
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Import All"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Import this Workout?"
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Do you want to Import this Huawei Health Workout into OutRun?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "The Huawei Health Workout could not be added, please try again later."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Import all Workouts?"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Do you want to Import all Huawei Health Workout into OutRun, this may take some time?"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Some Huawei Health Workouts could not be added, they will still appear in the list, please try again later."
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "welcome to"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "the running app that actually cares about your privacy, where you don't have to create a user account, or give sensitive data that then lies on a server in the middle of nowhere.\nBut more of that later for now let's just get started."
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "LET'S GO"
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Accurate Tracking"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Record your running, walking or cycling workouts with the highest accuracy possible on your phone."
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Detailed Statistics"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Look at detailed statistics like top speed and your average pace after you finished your workout"
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Privacy Focused"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "Don't worry about your data, all of it stays on your device as long as you want it to."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "I guess let's start with the formalities"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "This is the most boring part of the setup, so let's get it over with. If you don't want to read the policies (which we totally get) here is a really small summary: All your data is saved locally (with the exception of syncronization with Huawei Health), so you stay in control of it and don't need to worry about any kind of leak or exploit."
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "But now let's talk about You"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "To enable some of the features in this app we need some basic information on you. Your weight for example is required to calculate the approximate energy burned in a workout. (To give us your name is totally optional)"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Username"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Name"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Preferred System"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metric"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Imperial"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Weight"
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Want to sync with Huawei Health?"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "If you want your data to be stored in a central space Huawei Health might be a good option since it's well intregated with HarmonyOS. The synchronization is totally optional though and it should be noted that if you choose to sync with Huawei Health your data will possibly leave your phone and be stored on Huawei servers, more on that in the privacy policy. If you choose to enable Auto Import the app tries to import workouts added by other apps into the local database so you keep an overview over all your workouts."
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Sync Workouts"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Sync Weight"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Auto Import Workouts"
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Now we just need your permission"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Since we want to provide our services to you we need access to some APIs like Location Services or if you want to sync with Huawei Health also access to read and write to that service."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Location Permission"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "We need your location to record the route and thereby also important information like distance of the workouts you record in this app."
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Location Access Restricted"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "We can only access your location while this app is open right now. For tracking a workout it is advisable to give background location access, so your phone does not have to be on with the app open the entire time. To give us 'Always' access to your location you have to open your phone's settings and change it manually."
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "It seems like you have not granted us the permission to record your location. Please note that this is required for our service to work. To change this setting you have to go into your phone's Settings and grant us permission. Afterwards press the button again. Do you want to open Settings?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Health Permission"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Since you want us to save your workouts/weight to Huawei Health we require permission from you to read and write to the Huawei Health Store regarding the synced categories."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "You seem to not have been allowing us to access every requested category from Huawei Health. Do you want to try again or turn off syncronisation?"
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Motion Access"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "For data like the steps you take during a workout this app needs access to motion and fitness data."
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "You have not given this app permission to motion and fitness related sensor data. To change that and give the app access to data like steps, you have to enable access in HarmonyOS Settings manually. Do you want to open Settings?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Rescued Workout"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "The last time you have been recording a workout you seem to have quit this app without saving it. We have been able to save the data before the app was terminated, do you want to save it now?"
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "We are sorry, the workout could not be saved."
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "For some Reason the Workout could not be saved to Huawei Health."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Lost Workout"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "It seems that the last time you have been recording a workout the app was terminated and we have not been able to save your workout data."
+    },
+    {
+      "name": "Today",
+      "value": "Today"
+    },
+    {
+      "name": "Yesterday",
+      "value": "Yesterday"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Failed to add workout, please try again."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Failed to add workout to Huawei Health"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Could not alter workout in Huawei Health. It is possible that the workout was not added to Huawei Health by OutRun, which means we cannot modify it. The old instance is still present in the Health app, but the reference was removed from this app. If you want to add the new workout to Huawei Health you have to do that manually."
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "New Workout"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Edit Workout"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Info"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Custom"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Edit Pauses"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Hybrid"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satellite"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Terrain"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Map Type"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Please choose the type of map you want to have displayed."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Export Your Workout"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Please choose how to export your workout from the options below. If you feel like an option is missing feel free to reach out and suggest it."
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "GPX File"
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "OutRun Backup"
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "The app failed to create a backup, please contact the support."
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "The app failed to create a GPX file, please contact the support."
+    },
+    {
+      "name": "Changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "After receiving a trademark complaint \"OutRun\" will now be called \"Out-Run\" in the UK. This update has the main purpose of addressing this complaint.\n\nAdditionally it contains the following bug fixes:\n\n- sometimes data was not added properly to Apple Health, this should now be fixed\n- ascending and descending altitude were swapped in the statistics, now they are in the right order\n- there have been some style issues because of changes in iOS 14, everything should look normally again\n\nAnd for this update nothing more changed.\n\nIf you have any questions or feedback, feel free to reach out at outrun@tadris.de.\n\nTim, the Developer."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "It has been quite a long time since the last update and while I am still working on some more fundamental changes to OutRun this update also marks a huge step in the evolution of this app.\n\nI am very happy to announce that OutRun will now be available in ELEVEN additional languages which brings us to a total of thirteen and all of that thanks to a few really great people, who can be found in this project's README inside the source-code repository.\n\nOther than that not much has changed in this version:\n\n- There is a new contributor tab in settings, listing all the people who have considerably added to OutRun\n- and the source-code button was moved from 'Support' to 'App-Info'\n\nAnd that is that.\n\nIf you have any questions or feedback, feel free to reach out at outrun@tadris.de.\n\nTim, the Developer."
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "This app needs access to your health data to save workouts constructed by this app"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "This app needs access to your health data to read and possible correct workouts constructed by this app"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "This app needs your location to track workouts"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "This app needs your location to track workouts"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "This app needs your location to track workouts"
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "This app needs motion related tracking capabilities to record data like steps during a workout"
+    },
+    {
+      "name": "perm_reason_keep_background_running",
+      "value": "OutRun keeps the workout recording alive while the app is in the background"
+    },
+    {
+      "name": "perm_reason_internet",
+      "value": "OutRun loads the privacy policy and terms of service texts from the internet"
+    },
+    {
+      "name": "perm_reason_network_info",
+      "value": "OutRun checks network reachability before loading the policy texts"
+    },
+    {
+      "name": "Share_CopiedToClipboard",
+      "value": "Copied to clipboard"
+    }
+  ]
+}

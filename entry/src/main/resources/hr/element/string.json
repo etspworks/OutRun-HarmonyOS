@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "Changelog",
+      "value": "Zapis promjena"
+    },
+    {
+      "name": "All",
+      "value": "Sve"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Neuspjelo dodavanje treninga. Pokušaj ponovo."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Dozvola za „Zdravlje”"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Trčanje"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Želiš li također izbrisati trening koji je spremljen u Huaweijevom programu „Zdravlje”?"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Jedinica energije"
+    },
+    {
+      "name": "Next",
+      "value": "Dalje"
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Uvezi sigurnosnu kopiju"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Sinkronizraj težinu"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "Tvojoj lokaciji možemo pristupiti samo dok je ovaj program otvoren. Za praćenje treninga preporučuje se omogućiti pristup lokaciji u pozadini, tako da mobitel ne mora biti cijelo vrijeme uključen s otvorenim programom. Za stalni pristup tvojoj lokaciji, otvori postavke telefona i ručno promijeni način pristupa."
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Tvoji treninzi"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Došlo je do greške prilikom pokušaja prikazivanja statistike za ovaj trening. Pokušaj ponovo."
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "Odabrana jedinica će se koristiti za prikaz podataka"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Čini se da na tvom mobitelu nema programa za e-poštu ili je HarmonyOS ne može otvoriti. I bez toga možeš poslati e-mail na support@tadris.de za pomoć u vezi s bilo kojim problemom u vezi s programom."
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Čini se da su svi treninzi već sinkronizirani."
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Potrošena energija"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Želiš li tvoje snimljene treninge u Huaweijevom programu „Zdravlje” zadržati ili ih također izbrisati?"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "GPS signal nije dovoljno točan za dovoljnu kvalitetu rute. Pronalaženje točnog signala može potrajati nekoliko sekundi do minute. Ako se to obično događa u tvom mjestu prebivališta, pokušaj podesiti točnost u postavkama."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "Uvezeni su jedinstveni treninzi iz tvoje sigurnosne kopije. Treninzi koji već postoje u bazi podataka ovog programa su izostavljeni."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Privatnost aktivna"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Planinarenje"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Nije bilo moguće promijeniti trening u Huaweijevom programu „Zdravlje”. Možda „OutRun” nije dodao trening u Huaweijev program „Zdravlje”, što znači da se trening ne može mijenjati. Stara instanca i dalje je postoji u Huaweijevom programu „Zdravlje”, ali referenca je uklonjena iz ovog programa. Ako želiš dodati novi trening u Huaweijev program „Zdravlje”, to moraš učiniti ručno."
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Uvezi iz Huaweijevog programa „Zdravlje”"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Vremenska crta"
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Nažalost nije bilo moguće nastaviti tvoj trening."
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Nije bilo moguće dodati trening u Huaweijev program „Zdravlje”. Pokušaj kasnije ponovo."
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Postavke jedinica"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Korisničko ime"
+    },
+    {
+      "name": "NotSet",
+      "value": "Nije postavljeno"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "Kako bismo omogućili upotrebu nekih funkcija ovog programa, trebaju nam neki osnovni podaci o tebi. Na primjer, tvoja težina je potrebna za izračunavanje približno potrošene energije pri treningu. (Upiši tvoje ime samo ako želiš)"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Uvoz jedinstvenih treninga"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Jedinica brzine"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Isključeno (ne preporučuje se)"
+    },
+    {
+      "name": "Discard",
+      "value": "Odbaci"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Vrijeme početka"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "snimanje"
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Želiš li uvesti ovaj trening Huaweijevog programa „Zdravlje” u „OutRun”?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "Došlo je do greške prilikom pokušaja brisanja tvojih podataka u Huaweijevom programu „Zdravlje”, neki se možda još uvijek tamo nalaze. Preostale podatke možeš izbrisati u Huaweijevom programu „Zdravlje”."
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "Nije bilo moguće otvoriti poveznicu, jer ju je sustav odbio."
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Učitava se … ne zatvaraj"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "Došlo je do greške prilikom pokušaja brisanja tvojih podataka u programu, neki se možda još uvijek tamo nalaze. Pokušaj kasnije ponovo."
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Budući da ti želimo pružiti naše usluge, trebamo pristup nekim sučeljima kao što su „Usluge lokacije”. Ako želiš sinkronizirati s Huaweijevim programom „Zdravlje”, trebamo i pristup čitanju i pisanju na tu uslugu."
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Pješačenje"
+    },
+    {
+      "name": "Yesterday",
+      "value": "Jučer"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Sinkronizraj treninge"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Stvarno želiš odbaciti trening? Podaci se gube nepovratno."
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "Za podatke poput koraka tijekom treninga, ovaj program treba pristup podacima o kretanju i kondiciji."
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Ukupna energija"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Sve izbrisati?"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Brzina kroz vrijeme"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "pauzirano"
+    },
+    {
+      "name": "Finish",
+      "value": "Završi"
+    },
+    {
+      "name": "No",
+      "value": "Ne"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Stvori sigurnosnu kopiju"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Najveća brzina"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Uvjeti usluge"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Visina kroz vrijeme"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Klizanje"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Neuspjelo dodavanje treninga u Huaweijev program „Zdravlje”"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Čekanje na GPS"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Imperijalni"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Uzbrdo"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Nizbrdo"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Odaberi način izvoza treninga iz opcija. Ako smatraš da neka opcija nedostaje, slobodno nam se obrati i predloži novu opciju."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "Došlo je do greške prilikom sinkroniziranja svih nesinkroniziranih treninga s Huaweijevim programom „Zdravlje”. Neki treninzi možda nisu sinkronizirani."
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Politika privatnosti"
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "Program sada nastavlja snimati tvoj trening."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Prikaži izvorni kod"
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Nije bilo moguće ukloniti trening iz Huaweijevog programa „Zdravlje”. Pokušaj kasnije ponovo ili provjeri u Huaweijevom programu „Zdravlje”. Možda „OutRun” nije dodao trening u Huaweijev program „Zdravlje”, što znači da se trening ne može mijenjati."
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Automatska pauza"
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Uvezi"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Uredi trening"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Isključi"
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Dozvola za lokaciju"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filtar"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "Vrijeme završetka"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "Podaci programa"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Marker"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "Ukupno vrijeme"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Stvarno želiš izbrisati trening? Nakon brisanja, trening se ne može obnoviti."
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "Program nije uspio stvoriti GPX-datoteku. Kontaktiraj podršku."
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Silazno"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Ime"
+    },
+    {
+      "name": "Okay",
+      "value": "U redu"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Čini se da ne dozvoljavaš pristup svim zatraženim kategorijama iz Huaweijevog programa „Zdravlje”. Želiš li ponovo pokušati ili isključiti sinkronizaciju?"
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Pauze"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Podaci"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Nakon završetka treninga, pogledaj detaljnu statistiku poput najveće brzine i prosječno vrijeme"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "automatski pauzirano"
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "Program nije uspio stvoriti sigurnosnu kopiju. Kontaktiraj podršku."
+    },
+    {
+      "name": "Workout",
+      "value": "Trening"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Stvarno želiš izbrisati sve podatke koji su spremljeni pomoću ovog programa? To uključuje sve snimljene treninge i sve postavljene postavke. Podaci treninga i postavke ne mogu se obnoviti, ako nisu spremljeni kao sigurnosna kopija u Huaweijevom programu „Zdravlje”."
+    },
+    {
+      "name": "Yes",
+      "value": "Da"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Ruta"
+    },
+    {
+      "name": "Open",
+      "value": "Otvori"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Ime"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Verzija programa"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Sinkronizraj težinu"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Visoka"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Standardna vrsta"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Želiš li trening spremiti ili odbaciti?"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Prosječna brzina"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Krug"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Trajanje"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Neke treninge Huaweijevog programa „Zdravlje” nije bilo moguće dodati, no svejedno će se pojaviti na popisu. Pokušaj kasnije ponovo."
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Prosječna brzina"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "Ovaj izbornik ne možeš zatvoriti tijekom snimanja treninga. Želiš li prekinuti trening ili nastaviti?"
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Točno praćenje"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Pauza"
+    },
+    {
+      "name": "Delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Svi nesinkronizirani treninzi uspješno su sinkronizirani s Huaweijevim programom „Zdravlje”."
+    },
+    {
+      "name": "Grant",
+      "value": "Dozvoli"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "Došlo je do greške prilikom dohvaćanja treninga iz Huaweijevog programa „Zdravlje”."
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Komentar"
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "pozdrav u"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Trajanje"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Nije bilo moguće izbrisati"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Preferirani sustav"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Udaljenost"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Snimi tvoje treninge trčanja, hodanja ili vožnji biciklom na mobitelu, s najvećom mogućom preciznošću."
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Čini se da ovdje nema ničega."
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Izbriši sve podatke"
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Želiš li sinkronizirati s Huaweijevim programom „Zdravlje”?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Težina"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Trening"
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Sinkronizraj sve nesinkronizirane treninge"
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "Došlo je do greške prilikom pokušaja brisanja treninga iz programa."
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Datum"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Nije bilo moguće ispravno pročitati sigurnosnu kopiju. Obrati se podršci za dodatne informacije."
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "čekanje"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Stanje izdanja"
+    },
+    {
+      "name": "Edit",
+      "value": "Uredi"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Prikaži vrijeme"
+    },
+    {
+      "name": "Standard",
+      "value": "Standardno"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Uvesti sve treninge?"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Prikaži kartu"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Redoslijed"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "Točnost GPS-a"
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Nažalost nije bilo moguće spremiti tvoj trening."
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Brzina"
+    },
+    {
+      "name": "Today",
+      "value": "Danas"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Održavatelji"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "Za snimanje rute trebamo tvoju lokaciju, a s time i važne podatke poput dužine treninga koje snimaš u ovom programu."
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Automatski uvoz treninga"
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Prikaži brzinu odsječka"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Izbrisati u Huaweijevom programu „Zdravlje”?"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Željena točnost"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Automatski uvoz treninga"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Uvezi sve"
+    },
+    {
+      "name": "Continue",
+      "value": "Nastavi"
+    },
+    {
+      "name": "Done",
+      "value": "Gotovo"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Nije bilo moguće izbrisati"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Trening se snima"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Prekini snimanje"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Pedaliranje"
+    },
+    {
+      "name": "Settings",
+      "value": "Postavke"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Uredi pauze"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Pokušaj ponovo"
+    },
+    {
+      "name": "Settings_Email",
+      "value": "E-adresa"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Ako je opcija sinkronizacije aktivirana, program se pokušava sinkronizirati s Huaweijevim programom „Zdravlje”, tako da se novi podaci ovog programa automatski spremaju u program „Zdravlje”. Ako se promijeni težina u Huaweijevom programom „Zdravlje”, to se također ovdje automatski prilagođava.\n\nAko je opcija „Automatski uvezi treninge” aktivirana, program pokušava automatski uvesti nove treninge koje su dodali drugi programi u lokalnu bazu podataka.\n\n„Sinkroniziraj sve nesinkronizirane treninge” sinkronizira sve još ne sinkronizirane treninge u ovom programu s Huaweijevim programom „Zdravlje”."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Odbaci"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Vrsta"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Krajnji slučaj"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Sigurnosne kopije programa „OutRun” su datoteke, za koje nisu potrebni posebni alati za umetanje u program ili za prijenos na druge uređaje. Datoteke ostaju na lokalnom uređaju (osim ako se ne spremaju u oblak).\n\nPrilikom stvaranja sigurnosne kopije prikazat će se „.orbup”-datoteka, koja se može dijeliti s bilo kojim drugim programom. Podaci unutar te datoteke nisu šifrirani. Slanje ili prijenos tih podataka može ugroziti tvoju privatnost.\n\nZa uvoz sigurnosne kopije, jednostavno odaberi „.orbup”-datoteku s prethodno spremljenog mjesta. Program će zatim uvesti sve treninge sadržane u sigurnosnoj kopiji, automatski isključujući duplikate."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Standardna"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Došlo je do greške u logici za izradu treninga."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Budući da želiš da tvoje treninge/težinu spremamo u Huaweijev program „Zdravlje”, trebamo dozvolu za čitanje i pisanje u vezi sa sinkroniziranim kategorijama."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Izbrisati podatke Huaweijevog programa „Zdravlje”?"
+    },
+    {
+      "name": "Skip",
+      "value": "Preskoči"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "spremno"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Postavke"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Novi trening"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Ako želiš da se tvoji podaci spremaju centralno, oddaberi Huaweijev program „Zdravlje”, jer je dobro intregiran s HarmonyOS-om. Sinkronizacija nije obavezna. Ako se odlučiš za sinkronizaciju s Huaweijevim programom „Zdravlje”, tvoji će podaci možda napustiti mobitel i biti spremljeni na Huaweijevim poslužiteljima. Više o tome više u pravilima privatnosti. Ako odlučiš aktivirati automatski uvoz, program će pokušati uvesti treninge koje su dodali drugi programi u lokalnu bazu podataka, tako da imaš pregled svih tvojih treninga."
+    },
+    {
+      "name": "Start",
+      "value": "Pokreni"
+    },
+    {
+      "name": "Close",
+      "value": "Zatvori"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Vrijeme"
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "GPX datoteka"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Trajanje pauze"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "Trening iz Huaweijevog programa „Zdravlje” nije bilo moguće dodati. Pokušaj kasnije ponovo."
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Prilagođeno"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satelit"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Teren"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Nepoznato"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Kombinirano"
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Tvoj je trening uspješno spremljen."
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Upiši ručno"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Krenimo"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "Vrijeme odsječka"
+    },
+    {
+      "name": "Stop",
+      "value": "Prekini"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Spremi"
+    },
+    {
+      "name": "Cancel",
+      "value": "Odustani"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Ima rutu"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Visina"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Pristup lokaciji ograničen"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Odsječak"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Jedinica visine"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Vožnja biciklom"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Novi trening"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Ako se tijekom snimanja treninga dogode greške u programu, isključi opciju „Prikaži kartu”, jer ona zna biti čest uzrok za probleme.\n\nAko je opcija „Prikaži vrijeme” aktivirana, umjesto brzine, prikazuje se vrijeme. Ako je opcija „Prikaži brzinu odsječka” aktivirana, prikazat će se prosječna brzina ili vrijeme za zadnji kilometar, a inače trenutačna brzina ili ukupno vrijeme."
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Čini se da nemamo dozvolu za snimanje tvoje lokacije, što je neophodno za rad naše usluge. Postavi dozvolu u postavkama tvog mobitela. Nakon toga ponovo pritisni gumb. Želiš li otvoriti postavke?"
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Nažalost nije bilo moguće spremiti trening."
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Detaljna statistika"
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Dodaj u Huaweijev program „Zdravlje”"
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Postavke podataka"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Korisničke postavke"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Prevodioci"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Iz nepoznatih razloga nije bilo moguće spremiti trening u Huaweijev program „Zdravlje”."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Vrsta karte"
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Izbrisati trening?"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "program za trčanje koji se brine o tvojoj privatnosti, za koji ne trebaš korisnički račun niti odavati osjetljive podatke, koji se zatim nalaze na poslužitelju usred ničega.\nAli više o tome kasnije. Za sada, započnimo."
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "Sigurnosna kopija od „OutRun”"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Želiš li uvesti sve treninge Huaweijevog programa „Zdravlje” u „OutRun”? To može potrajati."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Odaberi vrstu karte koju želiš prikazati."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Prihvatljiva"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Trajanje kretanja"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Trening se izvozi"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Uvesti ovaj trening?"
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Izvezi tvoj trening"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Ovo je najdosadniji dio postavljanja programa, stoga obavimo to što brže. Ako ne želiš čitati pravila (što u potpunosti razumijemo), ovo je stvarno mali sažetak: Svi se tvoji podaci spremaju lokalno (s izuzetkom sinkronizacije s Huaweijevim programom „Zdravlje”), tako da ti vladaš nad njima i ne moraš se brinuti o bilo kakvom curenju ili iskorištavanju podataka."
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Razgovarajmo sada o tebi"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Udaljenost"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metrički"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Datum početka"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Umjesto toga spremi"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Sinkronizraj treninge"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Jedinica udaljenosti"
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Ukloni iz Huaweijevog programa „Zdravlje”"
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Pristup kretanju"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Neki treninzi koji su spremljeni u ovom programu, nedavno su uklonjeni iz Huaweijevog programa „Zdravlje”, ali su i dalje ovdje spremljeni. Možeš ih ponovo sinkronizirati u postavkama ili ih ručno izbrisati."
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Vrsta treninga koju odabereš, koristit će se kao standarda za snimanje novog treninga. Jednu drugu vrstu možeš odabrati i dugim pritiskom gumba plus ili pritiskom etikete vrste na ekranu za snimanje"
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Podrška"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Trka"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "Čini se da je program prilikom zadnjeg snimanja trening prekinut i nismo uspjeli spremiti tvoje podatke treninga."
+    },
+    {
+      "name": "Loading",
+      "value": "Učitava se ..."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "Čini se da je prilikom zadnjeg snimanja treninga program prekinut, bez spremanja podataka. Uspjeli smo spremiti podatke prije prekida programa. Želiš li ih sada spremiti?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Spašeni trening"
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Nepoznato"
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Završen trening"
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Težina"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "Program nema dozvole za pristup podacima senzora koji se odnose na kretanje i kondiciju. Aktiviraj pristup tim podacima (npr. koraci) u postavkama HarmonyOS-a. Želiš li otvoriti postavke?"
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "Nema podataka"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Koraci"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "Pri primanju GPS signala, oni se šalju s određenom točnošću kako bi se utvrdilo, jesu li podaci prikladni za upotrebu. Ovisno o načinu postavljanja ovog filtra, snimljeni treninzi će se razlikovati u kvaliteti.\n\nU idealnom slučaju, filtar bi trebao ostati na „Standardna”, ali ako se pojave komplikacije s tvojim podacima (npr. ako su previše netočni ili se sve filtrira), možeš probati jedan drugi."
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Trenutačna brzina"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "Ne brini o tvojim podacima. Svi podaci ostaju na tvom uređaju dok god to želiš."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Sada trebamo samo još tvoju dozvolu"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Jedinica težine"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Razvrstaj po"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Izgubljeni trening"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Tvoja ruta"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Postavke snimanja"
+    },
+    {
+      "name": "Save",
+      "value": "Spremi"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Automatsko nastavljanje"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Koju vrstu treninga želiš snimiti?"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "Došlo je do greške prilikom pokušaja brisanja treninga iz Huaweijevog programa „Zdravlje”. Svejedno ga možeš izbrisati u Huaweijevom programu „Zdravlje”."
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Doprinos"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Odberi jedinicu"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Potrošena energija"
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Krenimo onda s formalnostima"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Doprinositelji kodu"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Ovaj program treba tvoju težinu kako bi izračunala procijenjenu vrijednost potrošene energije tijekom treninga. Upiši tvoje ime samo ako želiš."
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Je trka"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Ovaj trening izmijenila je ili ručno dodala jedna osoba, tako da podaci mogu biti netočni ili čak lažni."
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Postavke Huaweijevog programa „Zdravlje”"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Nastavi"
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Ponovo centriraj"
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Prošlo je puno vremena od zadnjeg aktualiziranja, i dok još uvijek radim na nekim temeljnijim promjenama za OutRun, ova nova verzija također označava veliki korak u razvoju ovog programa.\n\nVrlo sam sretan što mogu najaviti da će OutRun sada biti dostupan na JEDANAEST dodatnih jezika, što znači sveukupno trinaest jezika i sve to zahvaljujući nekolicini zaista sjajnih ljudi, koje možeš pronaći u README-datoteci ovog projekta unutar repozitorija izvornog koda .\n\nOsim toga, u ovoj verziji nema puno promjena:\n\n- u postavkama postoji nova kartica suradnika koja prikazuje sve ljude koji su znatno pridonijeli programu OutRun\n- gumb za izvorni kod premješten je iz stavke „Podrška“ u stavku „Podaci programa“\n\nI to je to.\n\nPitanja i povratne informacije slobodno pošalji na outrun@tadris.de.\n\nTim, programer."
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Nakon primanja žalbe na zaštitni znak „OutRun“, program će se sada u Velikoj Britaniji zvati „Out-Run“. Glavna svrha nove verzije je rješavanje te žalbe.\n\nUz to sadrži sljedeće programske ispravke:\n\n- ponekad podaci nisu bili ispravno dodani u Appleov program „Zdravlje“\n- visine uzbrdo i nizbrdo bile su zamijenjene u statistikama\n- bilo je nekih stilskih problema zbog promjena u iOS-u 14\n\nTo su sve promjene u ovoj novoj verziji.\n\nPitanja i povratne informacije slobodno pošalji na outrun@tadris.de.\n\nTim, programer."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Za zapisivanje podataka poput broja koraka tijekom treninga, program treba mogućnosti praćenja kretanja"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Za učitavanje i moguće ispravljanje treninga koji su izrađeni s ovim programom, program treba pristup tvojim zdravstvenim podacima"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Za praćenje treninga koji su izrađeni s ovim programom, program treba pristup tvojim zdravstvenim podacima"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Za praćenje treninga, program treba tvoju lokaciju"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Za praćenje treninga, program treba tvoju lokaciju"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Za praćenje treninga, program treba tvoju lokaciju"
+    }
+  ]
+}

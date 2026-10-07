@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Eliminar de Huawei Health"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "No s'ha pogut afegir entrenament a Huawei Health, torneu-ho a provar més tard."
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Afegir a Huawei Health"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Descendent"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Ordre"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Ordenar per"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Té itinerari"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Es cursa"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filtre"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Data"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Desconegut"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Segment"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Marcador"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Volta"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Auto reprendre"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Reprendre"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Auto pausar"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Pausa"
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Pauses"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Aquest entrenament va ser modificat o afegit manualment per una persona, de manera que les dades poden ser inexactes o fins i tot falses."
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Comentari"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Cursa"
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Desconegut"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Senderisme"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Patinatge"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Ciclisme"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Caminar"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Córrer"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Tipus"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Nou entrenament"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "Ritme total"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "Ritme km"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Calories cremades"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Velocitat mitjana"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Velocitat actual"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Data d'inici"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Durada de la pausa"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Durada activa"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Durada"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Cops de pedal"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Passos"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Distància"
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Malauradament, no s'ha pogut desar el teu entrenament."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "El seu entrenament s'ha desat amb èxit."
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Entrenament finalitzat"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Quin tipus d'entrenament vols enregistrar?"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Entrenament"
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Entrenaments"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Hi ha hagut un error en la lògica suposada per construir l'entrenament."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Estàs segur que vols descartar el teu entrenament? Les dades no es poden recuperar."
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Voleu desar o descartar l'entrenament?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "No podeu tancar aquest menú mentre graveu un entrenament. Vols aturar l'entrenament o continuar?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "S'està gravant l'entrenament"
+    },
+    {
+      "name": "Workout",
+      "value": "Entrenament"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Hi ha hagut un error en intentar mostrar estadístiques sobre aquest entrenament, torneu-ho a provar."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Malauradament, no s'ha pogut continuar l'entrenament."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "L'aplicació continua enregistrant el seu entrenament."
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Introduir manualment"
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Re-centrar"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "El senyal GPS no és prou precís per obtenir una qualitat de ruta suficient; trobar un senyal precís pot trigar uns quants segons a un minut. Si es tracta d’un fenomen habitual on viu, prova d’ajustar la precisió necessària a la configuració."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Esperant GPS"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Desa en comptes"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Descartar"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Aturar el registre"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Desa"
+    },
+    {
+      "name": "Stop",
+      "value": "Aturar"
+    },
+    {
+      "name": "NotSet",
+      "value": "No configurat"
+    },
+    {
+      "name": "All",
+      "value": "Tot"
+    },
+    {
+      "name": "Start",
+      "value": "Començar"
+    },
+    {
+      "name": "Close",
+      "value": "Tancar"
+    },
+    {
+      "name": "Discard",
+      "value": "Descartar"
+    },
+    {
+      "name": "Edit",
+      "value": "Editar"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Apagar"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Torna a provar"
+    },
+    {
+      "name": "Open",
+      "value": "Obrir"
+    },
+    {
+      "name": "Grant",
+      "value": "Concedir"
+    },
+    {
+      "name": "Skip",
+      "value": "Saltar"
+    },
+    {
+      "name": "Finish",
+      "value": "Acabar"
+    },
+    {
+      "name": "Next",
+      "value": "Següent"
+    },
+    {
+      "name": "No",
+      "value": "No"
+    },
+    {
+      "name": "Yes",
+      "value": "Sí"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Pareix que no hi ha res ací."
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "No hi ha dades disponibles"
+    },
+    {
+      "name": "Okay",
+      "value": "Bé"
+    },
+    {
+      "name": "Standard",
+      "value": "Estàndard"
+    },
+    {
+      "name": "Done",
+      "value": "Fet"
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Carregant... Per favor, no tanques"
+    },
+    {
+      "name": "Loading",
+      "value": "Carregant..."
+    },
+    {
+      "name": "Delete",
+      "value": "Eliminar"
+    },
+    {
+      "name": "Continue",
+      "value": "Continuar"
+    },
+    {
+      "name": "Save",
+      "value": "Guardar"
+    },
+    {
+      "name": "Cancel",
+      "value": "Cancel·lar"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Configuració"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Cronologia"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Nom d'usuari"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "l’aplicació en execució que realment es preocupa per la vostra privadesa, on no cal que creeu cap compte d’usuari o que proporcioneu dades sensibles que es troben en un servidor enmig del no-res.\nPerò més d’això més endavant, ara per ara, només hem de començar."
+    },
+    {
+      "name": "Changelog",
+      "value": "Registre de canvis"
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "L'aplicació no ha pogut crear un fitxer GPX; poseu-vos en contacte amb el servei d'assistència."
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "L'aplicació no ha pogut crear una còpia de seguretat; poseu-vos en contacte amb el servei d'assistència."
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "Còpia de seguretat OutRun"
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "Fitxer GPX"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Seleccioneu com exportar l'entrenament de les opcions següents. Si creieu que falta una opció, no dubteu a posar-vos en contacte i suggerir-la."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Exporteu el vostre entrenament"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Seleccioneu el tipus de mapa que voleu que es mostri."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Tipus de mapa"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satèl·lit"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Terreny"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Híbrid"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Edita les pauses"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Personalitzat"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Informació"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Edita l'entrenament"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Nou entrenament"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "No s'ha pogut alterar l'entrenament a Huawei Health. És possible que OutRun no hagi afegit l'entrenament a Huawei Health, cosa que significa que no el podem modificar. L'antiga instància encara és present a l'aplicació Health, però la referència s'ha suprimit d'aquesta aplicació. Si voleu afegir el nou entrenament a Huawei Health, heu de fer-ho manualment."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "No s'ha pogut afegir l'entrenament a Huawei Health"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "No s'ha pogut afegir l'entrenament; torneu-ho a provar."
+    },
+    {
+      "name": "Yesterday",
+      "value": "Ahir"
+    },
+    {
+      "name": "Today",
+      "value": "Avui"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "Sembla que la darrera vegada que vas enregistrar un entrenament, es va finalitzar l'aplicació i no hem pogut desar les vostres dades d'entrenament."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Entrenament perdut"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Per alguns motius, no s'ha pogut desar l'entrenament a Huawei Health."
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Ho sentim, no s'ha pogut desar l'entrenament."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "L'última vegada que heu estat enregistrant un entrenament, sembla que heu sortit d'aquesta aplicació sense desar-la. Hem pogut desar les dades abans de finalitzar l'aplicació, voleu desar-les ara?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Entrenament rescatat"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "No heu donat permís a aquesta aplicació per a les dades del sensor relacionades amb el moviment i la forma física. Per canviar-ho i donar accés a l'aplicació a dades com ara passos, heu d'activar l'accés a la configuració de HarmonyOS manualment. Voleu obrir Configuració?"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "Per a dades com ara els passos que feu durant un entrenament, aquesta aplicació necessita accés a les dades de moviment i de forma física."
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Accés al moviment"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Sembla que no ens heu permès accedir a totes les categories sol·licitades des d’Huawei Health. Voleu tornar-ho a provar o desactivar la sincronització?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Com que voleu que desem els vostres entrenaments / pes a Huawei Health, necessitem permís per llegir i escriure a Huawei Health Store sobre les categories sincronitzades."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Permís de salut"
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Sembla que no ens heu concedit el permís per registrar la vostra ubicació. Tingueu en compte que això és necessari perquè el nostre servei funcioni. Per canviar aquesta configuració, heu d’entrar a la configuració del telèfon i concedir-nos permís. Després torneu a prémer el botó. Voleu obrir Configuració?"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "Només podem accedir a la vostra ubicació mentre aquesta aplicació estigui oberta ara mateix. Per fer un seguiment d’un entrenament, és recomanable donar accés a la ubicació en segon pla, de manera que el vostre telèfon no ha d’estar encès amb l’aplicació oberta tot el temps. Per donar-nos accés \"Sempre\" a la vostra ubicació, heu d'obrir la configuració del telèfon i canviar-la manualment."
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Accés a la ubicació restringit"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "Necessitem la vostra ubicació per enregistrar la ruta i, per tant, també informació important, com la distància dels entrenaments que enregistreu en aquesta aplicació."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Permís d'ubicació"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Com que volem proporcionar-vos els nostres serveis, necessitem accedir a algunes API com ara els serveis d’ubicació o, si voleu sincronitzar-la amb Huawei Health, també hi ha accés per llegir i escriure en aquest servei."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Ara només necessitem el teu permís"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Auto-importar entrenaments"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Sincronitzar pes"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Sincronitzar entrenaments"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Si voleu que les vostres dades s’emmagatzemin en un espai central, Huawei Health pot ser una bona opció, ja que està ben integrat amb HarmonyOS. Tanmateix, la sincronització és totalment opcional i cal tenir en compte que, si decidiu sincronitzar-la amb Huawei Health, les vostres dades deixaran el telèfon i s’emmagatzemaran als servidors de Huawei, més a la política de privadesa. Si decidiu activar la importació automàtica, l'aplicació intenta importar els entrenaments afegits per altres aplicacions a la base de dades local, de manera que tingueu una visió general de tots els vostres entrenaments."
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Voleu sincronitzar amb Huawei Health?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Pes"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Imperial"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Mètric"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Sistema preferit"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Nom"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "Per habilitar algunes de les funcions d'aquesta aplicació, necessitem informació bàsica sobre tu. El teu pes, per exemple, és necessari per calcular l'energia aproximada cremada en un entrenament. (Donar-nos el teu nom és totalment opcional)"
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Però ara parlem de tu"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Aquesta és la part més avorrida de la configuració, així acabem amb ella. Si no voleu llegir les polítiques (que ho comprenem), aquí teniu un resum molt petit: totes les vostres dades es guarden localment (a excepció de la sincronització amb Huawei Health), de manera que en teniu el control i no cal preocupar-se per cap tipus de filtració o explotació."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Suposo que comencem pels tràmits"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "No us preocupeu per les vostres dades, totes quedaran al dispositiu sempre que vulgueu."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Centrat en la privadesa"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Mireu estadístiques detallades com ara la velocitat màxima i el ritme mitjà després d’acabar l’entrenament"
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Estadístiques detallades"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Enregistreu els entrenaments de córrer, caminar o anar amb bicicleta amb la màxima precisió possible al vostre telèfon."
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Seguiment precís"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Som-hi"
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "benvingut a"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "No s'han pogut afegir alguns entrenaments d'Huawei Health; continuaran apareixent a la llista. Torneu-ho a provar més tard."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Vols importar tots els entrenaments d'Huawei Health a OutRun? Això pot trigar una mica."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Voleu importar tots els entrenaments?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "No s'ha pogut afegir Huawei Health Workout. Torneu-ho a provar més tard."
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Voleu importar aquest entrenament Huawei Health a OutRun?"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Voleu importar aquest entrenament?"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Importa-ho tot"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "S'ha produït un error en intentar recuperar els entrenaments d'Huawei Health."
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Importar"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Estat de la versió"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Versió de l'aplicació"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "Informació de l'aplicació"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "L'enllaç no s'ha pogut obrir perquè el sistema el rebutja."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Veure el codi font"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Sembla que no hi ha cap aplicació de correu electrònic al vostre telèfon o HarmonyOS no la pugui obrir, encara podeu enviar un correu electrònic a support@tadris.de per obtenir ajuda amb qualsevol problema relacionat amb l'aplicació."
+    },
+    {
+      "name": "Settings_Email",
+      "value": "Correu electrònic"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Política de privacitat"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Termes del servei"
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Suport"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "En cas que experimenteu algun tipus de bloqueig o comportament similar durant el registre d'un entrenament, heu de provar de desactivar \"Mostra el mapa\", perquè la majoria d'aquests bloquejos es coneixen quan es relacionen amb el mapa amb massa energia.\n\nSi l'opció \"Mostra el ritme\" està activada en lloc de mostrar la velocitat, es mostrarà el ritme. Si està activat \"Ritme/vel. de l'últim quilòmetre\", la velocitat o el ritme que es mostren són una mitjana de l'últim quilòmetre, i si no, es mostra la velocitat actual o el ritme total."
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Ritme/vel. de l'últim quilòmetre"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Mostra el ritme"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Desactivat (no recomanat)"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Últim recurs"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Acceptable"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Alt"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Estàndard"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "En rebre senyals GPS, s'envien amb una certa precisió per determinar si les dades són adequades per al seu ús. Depenent de com configureu aquest filtre, els entrenaments enregistrats variaran en qualitat.\n\nL'ideal seria que el filtre es mantingui a l'estàndard, però, si hi ha complicacions amb les vostres dades (per exemple, si són massa inexactes o es filtra tot), podeu provar-ne una."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Precisió desitjada"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "Precisió GPS"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Mostra el mapa"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "El tipus d'entrenament que trieu serà l'aplicat per defecte per enregistrar un entrenament nou. Podeu seleccionar un tipus diferent prement el botó més o bé l’etiqueta de tipus a la pantalla de gravació"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Tipus per defecte"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Preferències d'enregistrament"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "La unitat escollida s'utilitzarà per mostrar dades"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Trieu unitat"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Unitat de pes"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Unitat d'Energia"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Unitat de velocitat"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Unitat d'altitud"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Unitat de distància"
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Preferències de la unitat"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "S'ha produït un error en intentar suprimir les vostres dades a Huawei Health; és possible que encara hi hagi algunes. Podeu suprimir les dades restants de l'aplicació Huawei Health."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "No s'ha pogut suprimir"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "S'ha produït un error en intentar suprimir les vostres dades a l'aplicació, és possible que encara hi hagi algunes. Siusplau, intenta-ho més tard."
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "No s'ha pogut suprimir"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Voleu conservar els entrenaments que heu enregistrat a l'aplicació Huawei Health o també voleu eliminar-los?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Voleu suprimir les dades d'Huawei Health?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Esteu segur que voleu suprimir totes les dades emmagatzemades per aquesta aplicació? Això inclou qualsevol dels entrenaments que vau enregistrar i tots els paràmetres que hàgiu fet. No es poden restaurar dades d’entrenament si no es fan còpies de seguretat a Huawei Health i la vostra configuració es perdrà permanentment."
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Vols suprimir-ho tot?"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Suprimiu totes les dades"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Exportant entrenaments"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Importació de sessions d'entrenament úniques"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "No s'ha pogut llegir correctament la còpia de seguretat; contacteu amb nosaltres per obtenir informació addicional."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "Es van importar els entrenaments únics de la vostra còpia de seguretat; els entrenaments que ja existeixen en aquesta base de dades d'aplicacions es van deixar de banda."
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Importa dades de còpia de seguretat"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Crea una còpia de seguretat"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Les còpies de seguretat d’OutRun, probablement a diferència de la majoria d’altres aplicacions, són només fitxers que no necessiten eines especials per inserir-les a l’aplicació ni transferir-les a un altre dispositiu. També es mantenen locals (tret que els deseu al núvol).\n\nEn crear una còpia de seguretat, se us presentarà un fitxer \".orbup\" que podeu compartir amb qualsevol altra aplicació que vulgueu. Tingueu en compte que, tot i que les dades d’aquest fitxer no estan encriptades, enviar-les a algú o penjar-les a un servei poden comprometre la vostra privadesa, així que tingueu-ho en compte.\n\nPer importar una còpia de seguretat, només cal que seleccioneu un fitxer \".orbup\" des de qualsevol lloc on la hàgiu desat prèviament. L'aplicació importarà tots els entrenaments que conté la còpia de seguretat i assegureu-vos que no hi hagi duplicats automàticament."
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Preferències de dades"
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Pareix que tots els entrenaments ja estan sincronitzats."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "S'ha produït un error en intentar sincronitzar tots els entrenaments no sincronitzats amb Huawei Health; és possible que alguns entrenaments no s'hagin sincronitzat."
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Tots els entrenaments no sincronitzats prèviament han sigut satisfactoriament sincronitzats amb Huawei Health."
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Sincronitzar tots els entrenaments"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Importar d'Huawei Health"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Auto-importar entrenaments"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Sincronitzar pes"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Sincronitzar entrenaments"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Si les opcions de sincronització estan habilitades, l'aplicació intentarà sincronitzar-se amb Huawei Health, de manera que les dades noves d'aquesta aplicació es desaran automàticament a l'aplicació Health i, si el pes de la salut a Huawei Health canvia, també s'ajustarà automàticament aquí.\n\nSi l'opció \"Auto-importar entrenaments\" està activada, l'aplicació intentarà importar automàticament els entrenaments nous afegits per altres aplicacions a la base de dades local.\n\n\"Sincronitzar tots els entrenaments\" sincronitza tots els entrenament d'aquesta aplicació, que encara no estiguen sincronitzats, amb Huawei Health."
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Preferències d'Huawei Health"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Aquesta aplicació necessita el teu pes per calcular un valor estimat d’energia cremada durant un entrenament. Proporcionar el teu nom és totalment opcional."
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Pes"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Nom"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Configuració de l'usuari"
+    },
+    {
+      "name": "Settings",
+      "value": "Configuració"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "El teu itinerari"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "en pausa auto"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "en pausa"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "enregistrant"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "llest"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "esperant"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "S'ha produït un error en intentar suprimir l'entrenament d'Huawei Health; encara el podeu suprimir des de l'aplicació Huawei Health."
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "S'ha produït un error en intentar suprimir l'entrenament de l'aplicació."
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Vols suprimir també l'entrenament desat en Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Eliminar en Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Confirmes que vols suprimir l'entrenament? No el pots restaurar un cop suprimit."
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Voleu eliminar l'entrenament?"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Itinerari"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Energia total"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Energia cremada"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Velocitat en el temps"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Velocitat màxima"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Velocitat mitjana"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Velocitat"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "Hora de finalització"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Hora d'inici"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Durada"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Hora"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Descendent"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Ascendent"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Altitud"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Altitud al llarg del temps"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Distància"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Algunes sessions d'entrenament desats en aquesta aplicació s'han eliminat recentment d'Huawei Health, però encara es guarden aquí; els pots tornar a sincronitzar a Configuració o suprimir-los manualment."
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "No s'ha pogut eliminar l'entrenament d'Huawei Health. Torna-ho a provar més tard o consulta l'aplicació Huawei Health. És possible que OutRun no hagi afegit l'entrenament a Huawei Health, així que no el podem modificar."
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Traductors"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Col·laboradors de codi"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Mantenidors"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Contribució"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Després de rebre una reclamació sobre marques comercials, \"OutRun\" ara es dirà \"Out-Run\" al Regne Unit. Aquesta actualització té com a objectiu principal abordar aquesta reclamació.\n\nA més, conté les següents correccions d'errors:\n\n- de vegades les dades no s’afegien correctament a Apple Health, ara s’hauria de solucionar\n- les altures ascendents i descendents es van canviar a les estadístiques, ara estan en l'ordre correcte\n- Hi ha hagut alguns problemes d'estil a causa de canvis a iOS 14, tot hauria de tornar a semblar amb normalitat\n\nI per a aquesta actualització no va canviar res més.\n\nSi teniu cap pregunta o comentari, no dubteu a posar-vos en contacte amb outrun@tadris.de.\n\nTim, el desenvolupador."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Ha passat força temps des de la darrera actualització i, encara que estic treballant en alguns canvis més fonamentals a OutRun, aquesta actualització també suposa un gran pas en l'evolució d'aquesta aplicació.\n\nEstic molt feliç d’anunciar que OutRun ara estarà disponible en ONZE idiomes addicionals, cosa que ens porta a un total de tretze i tot això gràcies a unes poques persones realment fantàstiques, que es poden trobar al README d’aquest projecte dins del repositori de codi font.\n\nA part d'això, no ha canviat molt en aquesta versió:\n\n- Hi ha una nova pestanya de col·laboradors a la configuració, que mostra totes les persones que s’han afegit considerablement a OutRun\n- i el botó del codi font es va moure de \"Assistència\" a \"Informació de l'aplicació\"\n\nI això és tot.\n\nSi teniu cap pregunta o comentari, no dubteu a posar-vos en contacte amb outrun@tadris.de.\n\nTim, el desenvolupador."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Aquesta aplicació necessita funcions de seguiment relacionades amb el moviment per registrar dades com passos durant un entrenament"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Aquesta aplicació necessita la vostra ubicació per fer un seguiment dels entrenaments"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Aquesta aplicació necessita la vostra ubicació per fer un seguiment dels entrenaments"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Aquesta aplicació necessita la vostra ubicació per fer un seguiment dels entrenaments"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Aquesta aplicació necessita accés a les vostres dades de salut per llegir-les i possibles entrenaments correctes creats per aquesta aplicació"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Aquesta aplicació necessita accés a les vostres dades de salut per desar els entrenaments creats per aquesta aplicació"
+    }
+  ]
+}

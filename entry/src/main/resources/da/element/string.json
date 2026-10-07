@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "OutRun Backup"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Information"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Health Tilladelse"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "Oplysninger Om App"
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Underhold"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filtrere"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Automatisk pause"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Holdepause"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Kapløb"
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Centrer igen"
+    },
+    {
+      "name": "Changelog",
+      "value": "Ændringslog"
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "Appen kunne ikke oprette en GPX-fil, kontakt support."
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "Appen kunne ikke oprette en sikkerhedskopi, kontakt support."
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "GPX fil"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Vælg, hvordan du eksporterer din træning fra nedenstående muligheder. Hvis du har lyst til, at en mulighed mangler, er du velkommen til at række ud og foreslå det."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Eksporter din træning"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Vælg den type kort, du vil have vist."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Korttype"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satellit"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Terræn"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Hybrid"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Rediger pauser"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Brugerdefinerede"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Rediger træning"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Ny træning"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Kunne ikke ændre træning i Huawei Health. Det er muligt, at træningen ikke blev føjet til Huawei Health af OutRun, hvilket betyder, at vi ikke kan ændre den. Den gamle forekomst er stadig til stede i Health-appen, men referencen blev fjernet fra denne app. Hvis du vil tilføje den nye træning til Huawei Health, skal du gøre det manuelt."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Kunne ikke føje træning til Huawei Health"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Kunne ikke tilføje træning. Prøv igen."
+    },
+    {
+      "name": "Yesterday",
+      "value": "I går"
+    },
+    {
+      "name": "Today",
+      "value": "I dag"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "Det ser ud til, at sidste gang du har optaget en træning, blev appen afsluttet, og vi har ikke været i stand til at gemme dine træningsdata."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Mistet træning"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Af en eller anden grund kunne træningen ikke gemmes i Huawei Health."
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Vi beklager, træningen kunne ikke gemmes."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "Sidste gang du har optaget en træning, ser det ud til at du har afbrudt denne app uden at gemme den. Vi har været i stand til at gemme dataene, før appen blev afsluttet. Vil du gemme dem nu?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Reddet træning"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "Du har ikke givet denne app tilladelse til bevægelses- og fitnessrelaterede sensordata. For at ændre det og give appen adgang til data som trin, skal du aktivere adgang i HarmonyOS-indstillinger manuelt. Vil du åbne Indstillinger?"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "For data som de trin, du tager under en træning, har denne app brug for adgang til bevægelses- og fitnessdata."
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Bevægelsesadgang"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Det ser ud til, at du ikke har tilladt os at få adgang til alle anmodningskategorier fra Huawei Health. Vil du prøve igen eller deaktivere synkronisering?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Da du vil have os til at gemme din træning / vægt til Huawei Health, kræver vi tilladelse fra dig til at læse og skrive til Huawei Health Store vedrørende de synkroniserede kategorier."
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Det ser ud til, at du ikke har givet os tilladelse til at registrere din placering. Bemærk, at dette er nødvendigt for at vores service kan fungere. For at ændre denne indstilling skal du gå ind på telefonens indstillinger og give os tilladelse. Tryk derefter på knappen igen. Vil du åbne Indstillinger?"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "Vi kan kun få adgang til din placering, mens denne app er åben lige nu. For at spore en træning anbefales det at give baggrundsadgangsadgang, så din telefon behøver ikke at være tændt med appen åben hele tiden. For at give os 'Altid' adgang til din placering skal du åbne telefonens indstillinger og ændre den manuelt."
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Adgang til placering begrænset"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "Vi har brug for din placering for at registrere ruten og dermed også vigtige oplysninger som afstanden til de træningsprogrammer, du registrerer i denne app."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Placeringstilladelse"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Da vi ønsker at levere vores tjenester til dig, har vi brug for adgang til nogle API'er som Location Services, eller hvis du vil synkronisere med Huawei Health også adgang til at læse og skrive til denne service."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Nu har vi bare brug for din tilladelse"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Automatisk import af træning"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Synkroniseringsvægt"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Synkroniser træning"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Hvis du vil have dine data gemt i et centralt rum, kan Huawei Health være en god mulighed, da det er godt intregeret med HarmonyOS. Synkroniseringen er dog helt valgfri, og det skal bemærkes, at hvis du vælger at synkronisere med Huawei Health, vil dine data muligvis forlade din telefon og blive gemt på Huawei-servere, mere om det i fortrolighedspolitikken. Hvis du vælger at aktivere Autoimport, forsøger appen at importere træning, der er tilføjet af andre apps, i den lokale database, så du holder et overblik over alle dine træningsprogrammer."
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Vil du synkronisere med Huawei Health?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Vægt"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Kejserlig"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metrisk"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Foretrukket system"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Navn"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Brugernavn"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "For at aktivere nogle af funktionerne i denne app har vi brug for nogle grundlæggende oplysninger om dig. Din vægt kræves for eksempel for at beregne den omtrentlige energi, der er brændt under en træning. (At give os dit navn er helt valgfrit)"
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Men lad os nu tale om dig"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Dette er den kedeligste del af opsætningen, så lad os klare det. Hvis du ikke vil læse politikkerne (som vi helt får) her er en virkelig lille oversigt: Alle dine data gemmes lokalt (med undtagelse af synkronisering med Huawei Health), så du forbliver i kontrol over det og don ' behøver ikke bekymre dig om enhver form for lækage eller udnyttelse."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Lad os starte med formaliteterne"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "Du skal ikke bekymre dig om dine data, det hele forbliver på din enhed, så længe du vil have det."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Privatlivsfokuseret"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Se på detaljerede statistikker som tophastighed og dit gennemsnitstempo, når du er færdig med din træning"
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Detaljerede statistikker"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Optag dine løb, gå eller cykeltræning med den højest mulige nøjagtighed på din telefon."
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Nøjagtig sporing"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Lad os gå"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "den kørende app, der faktisk holder af dit privatliv, hvor du ikke behøver at oprette en brugerkonto eller give følsomme data, der derefter ligger på en server midt i himlen.\nMen mere af det senere for nu, lad os bare komme i gang."
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "velkommen til"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Nogle Huawei Health Workouts kunne ikke tilføjes, de vises stadig på listen. Prøv igen senere."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Vil du importere al Huawei Health Workout til OutRun, det kan tage lidt tid?"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Importere alle træningsprogrammer?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "Huawei Health Workout kunne ikke tilføjes. Prøv igen senere."
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Vil du importere denne Huawei Health Workout til OutRun?"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Importere denne træning?"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Importer alle"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "Der opstod en fejl under forsøg på at hente træningsprogrammer fra Huawei Health."
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Importere"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Frigør status"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Appversion"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "Linket kunne ikke åbnes, fordi systemet afviste det."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Se kildekode"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Der ser ud til, at der ikke er nogen e-mail-app på din telefon, eller HarmonyOS kan ikke åbne den, du kan stadig sende en e-mail til support@tadris.de for at få hjælp med eventuelle problemer vedrørende appen."
+    },
+    {
+      "name": "Settings_Email",
+      "value": "E-mail"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Fortrolighedspolitik"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Servicevilkår"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Hvis du oplever nogen form for nedbrud eller lignende adfærd, mens du optager en træning, skal du prøve at slå 'Vis kort' til fra, fordi de fleste af disse nedbrud kendes, hvor de er relateret til kortet, der trækker for meget strøm.\n\nHvis 'Display tempo' er aktiveret i stedet for at vise hastigheden, vises tempoet. Skulle 'Display Rolling Speed' være på den viste hastighed eller tempo er et gennemsnit af den sidste kilometer, hvis ikke den aktuelle hastighed eller det samlede tempo vises."
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Skærmens rullehastighed"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Vis tempo"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Fra (anbefales ikke)"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Sidste udvej"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Acceptabelt"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Høj"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Norm"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "Når de modtager GPS-signaler, sendes de med en vis nøjagtighed for at bestemme, om dataene er tilstrækkelige til brug. Afhængigt af hvordan du indstiller dette filter, varierer dine optagede træningsprogrammer i kvalitet.\n\nIdeelt set skal filteret forblive 'Standard', men hvis der er komplikationer med dine data (f.eks. For unøjagtige eller alt, hvad der filtreres fra), kan du prøve en af de andre."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Ønsket nøjagtighed"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "GPS nøjagtighed"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Vis kort"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Uanset hvilken træningstype du vælger, er standarden for optagelse af en ny træning. Du kan stadig vælge en anden type ved at trykke langt på plusknappen eller trykke på typemærket på optageskærmen"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Standard type"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Optagelsesindstillinger"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "Den valgte enhed bruges til at vise data"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Vælg enhed"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Vægt enhed"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Energienhed"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Hastighedsenhed"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Højdenhed"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Afstandsenhed"
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Enhedsindstillinger"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "Der opstod en fejl under forsøg på at slette dine data i Huawei Health, nogle kan stadig være der. Du kan slette resterende data i Huawei Health-appen."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Kunne ikke slette"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "Der opstod en fejl under forsøg på at slette dine data i appen, nogle kan stadig være der. Prøv igen senere."
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Kunne ikke slette"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Synkroniseringsvægt"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Gns. Hastighed"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Er race"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Automatisk genoptagelse"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Gns. Hastighed"
+    },
+    {
+      "name": "Start",
+      "value": "Starte"
+    },
+    {
+      "name": "Okay",
+      "value": "Alright"
+    },
+    {
+      "name": "Standard",
+      "value": "Norm"
+    },
+    {
+      "name": "Continue",
+      "value": "Fortsætte"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Udsnit"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Vil du beholde de træningsprogrammer, du har registreret i Huawei Health-appen, eller vil du også slette dem?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Slet Huawei Health Data?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Er du sikker på, at du vil slette alle de data, der er gemt i denne app? Dette inkluderer enhver træning, du har optaget, og alle de indstillinger, du har foretaget. Ingen træningsdata kan gendannes, hvis de ikke sikkerhedskopieres i Huawei Health, og dine indstillinger går permanent tabt."
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Slet alt?"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Slet alle data"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Eksport af træning"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Import af unikke træningsprogrammer"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Kunne ikke læse sikkerhedskopien korrekt. Kontakt support for yderligere information."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "De unikke træningsprogrammer fra din sikkerhedskopi blev importeret, træning, der allerede findes i denne apps database, blev udeladt."
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Importer sikkerhedskopidata"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Opret sikkerhedskopi"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Sikkerhedskopier i OutRun, sandsynligvis i modsætning til i de fleste andre apps, er bare filer, som du ikke har brug for specielle værktøjer til at indsætte i appen eller overføre til en anden enhed. De forbliver også lokale (medmindre du gemmer dem i skyen).\n\nNår du opretter en sikkerhedskopi, vil du blive præsenteret for en '.orbup' -fil, som du kan dele til den anden app, du vil. Vær opmærksom på, at dataene inde i den fil ikke er krypteret, men det kan kompromittere dit privatliv, hvis du sender dem til nogen eller uploader dem til en tjeneste, så husk det.\n\nFor at importere en sikkerhedskopi skal du blot vælge en .orbup-fil, hvorfra du tidligere har gemt den, og derefter importerer appen alle træningsprogrammerne i sikkerhedskopien og sørger for, at der ikke er nogen dubletter automatisk."
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Dataindstillinger"
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Det ser ud til, at alle træningsprogrammer allerede er synkroniseret."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "Der opstod en fejl under forsøg på at synkronisere alle usynkroniserede træningsprogrammer med Huawei Health. Nogle træningsprogrammer er muligvis ikke blevet synkroniseret."
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Alle usynkroniserede træningsprogrammer blev synkroniseret med Huawei Health."
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Synkroniser alle usynkroniserede træningsprogrammer"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Import fra Huawei Health"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Automatisk import af træning"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Synkroniser træning"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Hvis Sync-indstillingerne er aktiveret, forsøger appen at synkronisere med Huawei Health, så nye data fra denne app gemmes automatisk i Health App, og hvis vægten i Huawei Health ændres, bliver den automatisk også justeret her.\n\nHvis indstillingen 'Automatisk import af træning' er aktiveret, forsøger appen automatisk at importere nye træningsprogrammer tilføjet af andre apps til den lokale database.\n\n'Synkroniser alle usynkroniserede træningsprogrammer' synkroniserer alle træningsprogrammer i denne app, ikke allerede synkroniseret, til Huawei Health."
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Huawei Health Præferencer"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Denne app har brug for din vægt for at beregne en anslået værdi af brændt energi under en træning. Det er fuldt valgfrit at angive dit navn."
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Vægt"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Navn"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Brugerindstillinger"
+    },
+    {
+      "name": "Settings",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Din rute"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "automatisk sat på pause"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "pause"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "indspilning"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "parat"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "venter"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "Der opstod en fejl under forsøg på at slette træningen fra Huawei Health, du kan stadig slette den i Huawei Health-appen."
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "Der opstod en fejl under forsøg på at slette træningen fra appen."
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Vil du også slette den træning, der er gemt i Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Slet i Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Vil du virkelig slette træningen, kan du ikke gendanne den, når den er slettet?"
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Slet træning?"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Rute"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Samlet energi"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Brændt energi"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Hastighed over tid"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Tophastighed"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Hastighed"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "Sluttid"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Starttidspunkt"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Varighed"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Tid"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Aftagende"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Stigende"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Højde"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Højde over tid"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Afstand"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Nogle træningsprogrammer, der er gemt i denne app, blev for nylig fjernet fra Huawei Health, men gemmes stadig her, du kan synkronisere dem igen i Indstillinger eller slette dem manuelt."
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Kunne ikke fjerne træning fra Huawei Health. Prøv igen senere eller tjek i Huawei Health-appen. Det er muligt, at træningen ikke blev føjet til Huawei Health af OutRun, hvilket betyder, at vi ikke kan ændre den."
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Fjern fra Huawei Health"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Kunne ikke føje træning til Huawei Health. Prøv igen senere."
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Føj til Huawei Health"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Aftagende"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Bestille"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Sorter efter"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Har rute"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Dato"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Ukendt"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Markør"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Skød"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Genoptag"
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Pauser"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Denne træning blev ændret eller tilføjet manuelt af en person, så dataene kan være unøjagtige eller endda falske."
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Kommentar"
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Ukendt"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Vandreture"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Stå på skøjter"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Cykling"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Gå"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Løb"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Type"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Ny træning"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "T. Tempo"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "R. Tempo"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Forbrændte kalorier"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Nuværende hastighed"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Start dato"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Pause Varighed"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Aktiv varighed"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Varighed"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Pedal slagtilfælde"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Trin"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Afstand"
+    },
+    {
+      "name": "Workout",
+      "value": "Træning"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Der opstod en fejl under forsøg på at få vist statistik om denne træning. Prøv igen."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Desværre kunne din træning ikke fortsættes."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "Appen fortsætter nu med at registrere din træning."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Desværre kunne din træning ikke gemmes."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Din træning blev gemt."
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Færdig træning"
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Indtast manuelt"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Hvilken slags træning vil du optage?"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Træning"
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Dine træningsprogrammer"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Der var en fejl i logikken, der skulle konstruere træningen."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "GPS-signalet er ikke nøjagtigt nok til en tilstrækkelig rutekvalitet, det kan tage et par sekunder til et minut at finde et nøjagtigt signal. Hvis dette er et almindeligt fænomen, hvor du bor, kan du prøve at justere den nødvendige nøjagtighed i indstillingerne."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Venter på GPS"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Gem i stedet"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Er du sikker på, at du vil kassere din træning? Dataene kan ikke gendannes."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Kassér"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Vil du gemme eller kassere træningen?"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Gemme"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Stop optagelsen"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "Du kan ikke lukke denne menu, mens du optager en træning. Vil du stoppe træningen eller fortsætte?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Træning registreres"
+    },
+    {
+      "name": "NotSet",
+      "value": "Ikke indstillet"
+    },
+    {
+      "name": "All",
+      "value": "Alle"
+    },
+    {
+      "name": "Stop",
+      "value": "Hold op"
+    },
+    {
+      "name": "Close",
+      "value": "Tæt"
+    },
+    {
+      "name": "Discard",
+      "value": "Kassér"
+    },
+    {
+      "name": "Edit",
+      "value": "Redigere"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Sluk"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Prøv igen"
+    },
+    {
+      "name": "Open",
+      "value": "Åben"
+    },
+    {
+      "name": "Grant",
+      "value": "Give"
+    },
+    {
+      "name": "Skip",
+      "value": "Springe"
+    },
+    {
+      "name": "Finish",
+      "value": "Afslut"
+    },
+    {
+      "name": "Next",
+      "value": "Næste"
+    },
+    {
+      "name": "No",
+      "value": "Ingen"
+    },
+    {
+      "name": "Yes",
+      "value": "Ja"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Der synes ikke at være noget her."
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "Ingen tilgængelig data"
+    },
+    {
+      "name": "Done",
+      "value": "Færdig"
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Indlæser ... Luk venligst ikke"
+    },
+    {
+      "name": "Loading",
+      "value": "Indlæser..."
+    },
+    {
+      "name": "Delete",
+      "value": "Slet"
+    },
+    {
+      "name": "Save",
+      "value": "Gemme"
+    },
+    {
+      "name": "Cancel",
+      "value": "Afbestille"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Tidslinje"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Oversættere"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Kodebidragydere"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Vedligeholdere"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Bidrag"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Efter modtagelse af en varemærkeklage kaldes \"OutRun\" nu \"Out-Run\" i Storbritannien. Denne opdatering har det primære formål at tackle denne klage.\n\nDerudover indeholder den følgende fejlrettelser:\n\n- nogle gange blev data ikke tilføjet korrekt til Apple Health, dette skulle nu løses\n- stigende og faldende højde blev byttet i statistikken, nu er de i den rigtige rækkefølge\n- der har været nogle stilproblemer på grund af ændringer i iOS 14, alt skal se normalt ud igen\n\nOg for denne opdatering ændrede intet mere sig.\n\nHvis du har spørgsmål eller feedback, er du velkommen til at kontakte outrun@tadris.de.\n\nTim, udvikleren."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Der er gået lang tid siden sidste opdatering, og mens jeg stadig arbejder på nogle mere grundlæggende ændringer i OutRun, markerer denne opdatering også et stort skridt i udviklingen af denne app.\n\nJeg er meget glad for at kunne meddele, at OutRun nu vil være tilgængelig på ELLEVE yderligere sprog, hvilket bringer os til i alt tretten, og alt dette takket være et par rigtig gode mennesker, der findes i dette projekts README inde i kildekodedepotet.\n \nBortset fra det har ikke meget ændret sig i denne version:\n\n- Der er en ny fane til bidragsydere i indstillingerne, der viser alle de personer, der har føjet betydeligt til OutRun\n- og kildekodeknappen blev flyttet fra 'Support' til 'App-Info'\n\nOg det er det.\n\nHvis du har spørgsmål eller feedback, er du velkommen til at kontakte outrun@tadris.de.\n\nTim, udvikleren."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Denne app har brug for bevægelsesrelaterede sporingsfunktioner for at registrere data som trin under en træning"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Denne app har brug for din placering for at spore træning"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Denne app har brug for din placering for at spore træning"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Denne app har brug for din placering for at spore træning"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Denne app har brug for adgang til dine sundhedsdata for at læse og mulige korrekte træningsprogrammer konstrueret af denne app"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Denne app har brug for adgang til dine sundhedsdata for at gemme træning, der er konstrueret af denne app"
+    }
+  ]
+}

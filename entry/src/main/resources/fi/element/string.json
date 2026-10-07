@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Treenin suunnittelussa oli virhe."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "GPS-signaali ei ole riittävän tarkka riittävän reitin laadun saavuttamiseksi, tarkan signaalin löytäminen voi viedä pari sekuntia minuuttiin. Jos tämä on yleinen ilmiö, jossa asut, yritä säätää tarvittavaa tarkkuutta asetuksissa."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Tallenna sen sijaan"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Oletko varma, että haluat hylätä harjoituksen? Tietoja ei voi palauttaa."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Hylätä"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Haluatko tallentaa tai hylätä harjoituksen?"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Tallentaa"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Lopeta tallennus"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "Et voi sulkea tätä valikkoa tallennettaessa harjoitusta. Haluatko lopettaa harjoituksen tai jatkaa?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Harjoitus on tallennettu"
+    },
+    {
+      "name": "NotSet",
+      "value": "Ei Asetettu"
+    },
+    {
+      "name": "All",
+      "value": "Kaikki"
+    },
+    {
+      "name": "Stop",
+      "value": "Lopettaa"
+    },
+    {
+      "name": "Start",
+      "value": "Aloittaa"
+    },
+    {
+      "name": "Close",
+      "value": "Sulje"
+    },
+    {
+      "name": "Discard",
+      "value": "Hylätä"
+    },
+    {
+      "name": "Edit",
+      "value": "Muokkaa"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "sammuttaa"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Yritä Uudelleen"
+    },
+    {
+      "name": "Open",
+      "value": "Avata"
+    },
+    {
+      "name": "Grant",
+      "value": "Myöntää"
+    },
+    {
+      "name": "Skip",
+      "value": "Ohittaa"
+    },
+    {
+      "name": "Finish",
+      "value": "Valmis"
+    },
+    {
+      "name": "Next",
+      "value": "Seuraava"
+    },
+    {
+      "name": "No",
+      "value": "Ei"
+    },
+    {
+      "name": "Yes",
+      "value": "Kyllä"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Täällä ei näytä olevan mitään."
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "Tietoja Ei Ole Saatavilla"
+    },
+    {
+      "name": "Okay",
+      "value": "Okei"
+    },
+    {
+      "name": "Standard",
+      "value": "Standardi"
+    },
+    {
+      "name": "Done",
+      "value": "Tehdä"
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Lastaus... Älä Sulje"
+    },
+    {
+      "name": "Loading",
+      "value": "Lastaus..."
+    },
+    {
+      "name": "Delete",
+      "value": "Poistaa"
+    },
+    {
+      "name": "Continue",
+      "value": "Jatkaa"
+    },
+    {
+      "name": "Save",
+      "value": "Tallentaa"
+    },
+    {
+      "name": "Cancel",
+      "value": "Peruuttaa"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Asetus"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Aikajana"
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Uudelleen Keskus"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Odotetaan GPS: ää"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Jos synkronointivaihtoehdot ovat käytössä, sovellus yrittää synkronoida Huawei Healthin kanssa, joten tämän sovelluksen uudet tiedot tallennetaan automaattisesti Health-sovellukseen ja jos omenan terveyden paino muuttuu, se säätyy automaattisesti myös tässä.\n\nJos Auto Import Workouts -vaihtoehto on käytössä, sovellus yrittää tuoda muiden sovellusten lisäämät uudet harjoitukset paikalliseen tietokantaan.\n\nSynkronoi kaikki synkronoimattomat harjoitukset synkronoi kaikki tämän sovelluksen harjoitukset, joita ei ole vielä synkronoitu, Huawei Healthiin."
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Tiedot"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "keskinopeus"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "Y. Pace"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "L. Tahti"
+    },
+    {
+      "name": "Changelog",
+      "value": "Muutosloki"
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "Sovellus ei onnistunut luomaan GPX-tiedostoa, ota yhteyttä tukeen."
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "Sovellus ei luonut varmuuskopiota, ota yhteyttä tukeen."
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "OutRun Varmuuskopiointi"
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "GPX-tiedosto"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Valitse, miten voit viedä harjoituksen alla olevista vaihtoehdoista. Jos sinusta tuntuu, että vaihtoehto puuttuu, ota rohkeasti yhteyttä ja ehdota sitä."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Vie Harjoitus"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Valitse kartan tyyppi, jonka haluat näyttää."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Kartan Tyyppi"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satelliitti"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Maasto"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Yhdistelmälepotilaan"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Muokkaa Taukoja"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Mukautettu"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Muokkaa Harjoitusta"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Uusi Harjoitus"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Ei voinut muuttaa harjoittelua Huawei Health. On mahdollista, että harjoitusta ei lisätty Huawei Health by OutRun, eli emme voi muuttaa sitä. Vanha esimerkki on edelleen läsnä Terveys-sovelluksessa, mutta viittaus poistettiin tästä sovelluksesta. Jos haluat lisätä uuden harjoituksen Huawei Health, sinun on tehtävä se manuaalisesti."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Harjoituksen lisääminen epäonnistui Huawei Health"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Ei lisätä harjoitus, yritä uudelleen."
+    },
+    {
+      "name": "Yesterday",
+      "value": "Eilen"
+    },
+    {
+      "name": "Today",
+      "value": "Hetkellä"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "Näyttää siltä, että viimeksi kun olet tallentanut harjoituksen, sovellus lopetettiin, emmekä ole pystyneet tallentamaan harjoitustietojasi."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Kadonnut Harjoitus"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Jostain syystä harjoittelua ei voitu tallentaa Huawei Health."
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Olemme pahoillamme, harjoitus ei voitu tallentaa."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "Viimeksi kun olet tallentanut harjoituksen, näytät lopettaneen tämän sovelluksen tallentamatta sitä. Olemme voineet tallentaa tiedot ennen sovelluksen lopettamista, haluatko tallentaa sen nyt?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Pelastettu Harjoitus"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "Et ole antanut tätä sovellusta lupaa liike-ja kuntoiluun liittyviin anturitietoihin. Jos haluat muuttaa sitä ja antaa sovellukselle pääsyn tietoihin, kuten vaiheisiin, sinun on otettava pääsy käyttöön HarmonyOS-asetuksissa manuaalisesti. Haluatko avata Asetukset?"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "Tietoja, kuten vaiheet, jotka otat harjoituksen aikana, tämä sovellus tarvitsee pääsyn liike-ja kuntotietoihin."
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Liikkeen Käyttöoikeus"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Et näytä antaneen meille mahdollisuutta käyttää kaikkia pyydettyjä luokkia Huawei Health. Haluatko yrittää uudelleen tai sammuttaa synkronoinnin?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Koska haluat tallentaa liikuntaa/paino Huawei Terveys emme vaadi lupaa voit lukea ja kirjoittaa Huawei Health Store koskevat synkronoida luokat."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Health Lupa"
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Näyttää siltä, että et ole antanut meille lupaa tallentaa sijaintisi. Huomaa, että tämä on tarpeen, jotta Palvelumme toimisi. Jos haluat muuttaa tätä asetusta, sinun on siirryttävä puhelimesi asetuksiin ja annettava meille lupa. Paina sen jälkeen painiketta uudelleen. Haluatko avata Asetukset?"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "Voimme käyttää sijaintiasi vain, kun tämä sovellus on auki juuri nyt. Seuranta harjoitus on suositeltavaa antaa tausta sijainti pääsy, joten puhelimesi ei tarvitse olla app auki koko ajan. Jos haluat antaa meille \"aina\" pääsyn sijaintiisi, sinun on avattava puhelimesi asetukset ja muutettava se manuaalisesti."
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Sijainnin Käyttö Rajoitettu"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "Tarvitsemme sijaintisi tallentaa reitin ja siten myös tärkeitä tietoja, kuten välimatka harjoitukset voit tallentaa tämän sovelluksen."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Sijainti Lupa"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Koska haluamme tarjota palveluitamme sinulle, tarvitsemme pääsyn joihinkin sovellusliittymiin, kuten sijaintipalveluihin tai jos haluat synkronoida Huawei Health myös pääsy lukea ja kirjoittaa kyseiseen Palveluun."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Nyt tarvitsemme vain lupasi"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Automaattinen Tuonti Harjoitukset"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Synkronoi Harjoitukset"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Synkronoi Paino"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Jos haluat, että tietosi tallennetaan keskeiseen tilaan, Huawei Health saattaa olla hyvä vaihtoehto, koska se on hyvin integroitu HarmonyOS:n kanssa. Synkronointi on kuitenkin täysin valinnainen, ja on huomattava, että jos valitset synkronoinnin Huawei Health kanssa tietosi mahdollisesti jättää puhelimen ja tallennetaan Huawein palvelimille, lisää siitä Tietosuojakäytännössä. Jos haluat ottaa automaattisen tuonnin käyttöön, sovellus yrittää tuoda muiden sovellusten lisäämiä harjoituksia paikalliseen tietokantaan, jotta pidät yleiskuvan kaikista harjoituksista."
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Haluatko synkronoida Huawei Health?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Paino"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Keisarillinen"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metriikka"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Ensisijainen Järjestelmä"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Nimi"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Käyttäjänimi"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "Jotta joitakin ominaisuuksia tässä app tarvitsemme joitakin perustietoja sinusta. Esimerkiksi painosi on laskettava harjoituksen aikana poltettu likimääräinen energia. (Antaa meille nimesi on täysin valinnainen)"
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Mutta nyt puhutaan sinusta"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Tämä on asennuksen tylsin osa,joten hoidetaan se. Jos et halua lukea politiikat (josta olemme täysin päästä) täällä on todella pieni yhteenveto: Kaikki tiedot tallennetaan paikallisesti (lukuun ottamatta synkronointi kanssa Huawei Health), joten voit pysyä hallita sitä ja ei tarvitse murehtia minkäänlaista vuotoa tai hyödyntää."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Aloitetaan muodollisuuksista"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "Älä ole huolissasi tiedoista, kaikki se pysyy laitteellasi niin kauan kuin haluat."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Yksityisyys Keskittynyt"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Katso yksityiskohtaisia tilastoja, kuten huippunopeus ja keskimääräinen tahti harjoittelun jälkeen"
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Yksityiskohtaiset Tilastot"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Tallenna juoksu -, kävely-tai pyöräilyharjoitukset mahdollisimman tarkasti puhelimellasi."
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Tarkka Seuranta"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Mennään"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "käynnissä sovellus, joka todella välittää yksityisyyttä, jossa sinun ei tarvitse luoda käyttäjätiliä, tai antaa arkaluonteisia tietoja, jotka sitten sijaitsee palvelimella, keskellä ei mitään.\nMutta lisää siitä myöhemmin nyt aloitetaan."
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "Tervetuloa"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Joitakin Huawei Health harjoituksia ei voitu lisätä, ne näkyvät edelleen luettelossa, yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Haluatko tuoda kaikki Huawei Health Workout osaksi OutRun, tämä voi kestää jonkin aikaa?"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Tuo kaikki harjoitukset?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "Huawei Health Workoutia ei voitu lisätä, yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Haluatko tuoda tämän Huawei Health Workout osaksi OutRun?"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Tuo tämä harjoitus?"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Tuo Kaikki"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "Oli virhe, kun yrittää hakea liikuntaa Huawei Health."
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Tuonti"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Julkaisun Tila"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Sovelluksen Versio"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "Sovelluksen Tiedot"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "Linkkiä ei voitu avata, koska järjestelmä hylkäsi sen."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Näytä Lähdekoodi"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Ei näytä olevan mitään E-Mail app puhelimen, tai HarmonyOS voi avata sen, voit silti lähettää E-Mail support@tadris.de jos tarvitset apua mitään ongelmia app."
+    },
+    {
+      "name": "Settings_Email",
+      "value": "Sähköposti"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "tietosuojakäytäntö"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "käyttöehdot"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Varmuuskopiot OutRun, luultavasti toisin kuin useimmissa muissa sovelluksissa, ovat vain tiedostoja, että sinun ei tarvitse erikoistyökaluja lisätä sovelluksen tai siirtää toiseen laitteeseen. Ne pysyvät myös paikallisina (ellet tallenna niitä pilveen).\n\nKun luot varmuuskopion sinulle esitetään '.orbup-tiedosto, jonka voit jakaa mihin tahansa muuhun sovellukseen. Olla tietoinen siitä, että tiedot sisällä että tiedosto ei ole salattu, vaikka, lähettää sen jollekulle, tai lataamalla sen palvelun, voivat vaarantaa yksityisyytesi, joten pitäkää se mielessä.\n\nJos haluat tuoda varmuuskopion, valitse vain a'.orbup-tiedosto mistä tahansa olet aiemmin tallentanut sen, sovellus tuo sitten kaikki varmuuskopion sisältämät harjoitukset varmistaen, että kaksoiskappaleita ei ole automaattisesti."
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Tukee"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Jos koet minkäänlaista kaatuu tai vastaavaa käyttäytymistä tallennuksen aikana harjoitus, sinun pitäisi yrittää kääntää 'Näytä kartta' pois, koska useimmat näistä kaatuu tiedossa, Jos liittyvät kartan piirustus liikaa valtaa.\n\nJos \"Display Pace\" on käytössä sen sijaan, että näytetään nopeus, vauhti näkyy. Olisi Näyttää Liikkuvan Nopeus on nopeus tai vauhti näkyvät ovat keskimäärin viimeisen kilometrin, jos ei nykyinen nopeus tai koko vauhti näkyvät."
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Näytön Valssausnopeus"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Näytä Vauhti"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Off (ei suositella)"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Viimeinen Keino"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Hyväksyttävä"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Korkea"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Standardi"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "GPS-signaaleja vastaanotettaessa ne lähetetään tietyllä tarkkuudella sen määrittämiseksi, onko tiedot riittävät käytettäväksi. Riippuen siitä, kuinka asetat tämän suodattimen, tallennetut harjoituksesi vaihtelevat laadultaan.\n\nIhannetapauksessa suodatin pitäisi pysyä \"Standardi\", mutta pitäisi olla komplikaatioita tiedot (esim. se on liian epätarkkoja tai kaikki on suodatettu pois), voit kokeilla muita."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Haluttu Tarkkuus"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "GPS-tarkkuus"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Näytä Kartta"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Kumpi harjoitustyyppi valitset, on standardi uuden harjoituksen tallentamiseksi. Voit silti valita toisen tyypin painamalla pitkään plus-painiketta tai painamalla tallennusnäytön tyyppi-etikettiä"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Vakiotyyppi"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Tallennusasetukset"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "Valittua yksikköä käytetään tietojen näyttämiseen"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Valitse Yksikkö"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Painoyksikkö"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Energiayksikkö"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Nopeusyksikkö"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Korkeusyksikkö"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Etäisyys Yksikkö"
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Yksikön Asetukset"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "Huawei Health issa oli virhe yrittäessään poistaa tietojasi, jotkut saattavat silti olla siellä. Voit poistaa jäljellä olevat tiedot Huawei Health-sovelluksen sisällä."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Ei voitu poistaa"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "Oli virhe, kun yrittää poistaa tietoja app, jotkut saattavat silti olla siellä. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Ei voitu poistaa"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Haluatko pitää harjoitukset, jotka olet tallentanut Huawei Health-sovellukseen,vai haluatko poistaa ne myös?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Poista Huawein Terveystiedot?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Oletko varma, että haluat poistaa kaikki tämän sovelluksen tallentamat tiedot? Tämä sisältää kaikki tallennetut harjoitukset ja kaikki tekemäsi asetukset. Ei harjoitus tietoja voidaan palauttaa, jos ei varmuuskopioida Huawei Health ja asetukset menetetään pysyvästi."
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Poista Kaikki?"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Poista kaikki tiedot"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Vientiä liikuntaa"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Ainutlaatuisten harjoitusten tuominen"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Varmuuskopiota ei voitu lukea oikein, ota yhteyttä tukeen saadaksesi lisätietoja."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "Ainutlaatuinen harjoituksia varmuuskopio tuotu, harjoitukset, jotka ovat jo olemassa tässä apps tietokanta jätettiin pois."
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Tuo Varmuuskopiotiedot"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Luo Varmuuskopio"
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Tietojen Asetukset"
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Näyttää siltä, että kaikki harjoitukset on jo synkronoitu."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "Oli virhe yrittäessään synkronoida kaikki synkronoimattomat harjoitukset Huawei Health kanssa, joitain harjoituksia ei ehkä ole synkronoitu."
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Kaikki synkronoimattomat harjoitukset synkronoitiin onnistuneesti Huawei Health."
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Synkronoi Kaikki Synkronoimattomat Harjoitukset"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Tuonti Huawei Health"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Automaattinen Tuonti Harjoitukset"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Synkronoi Paino"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Synkronoi Harjoitukset"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Tämä sovellus tarvitsee painosi laskeaksesi poltetun energian arvioidun arvon harjoituksen aikana. Nimesi tarjoaminen on täysin vapaaehtoista."
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Huippunopeus"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Huawei Health Asetus"
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Paino"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Nimi"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Käyttäjän Asetukset"
+    },
+    {
+      "name": "Settings",
+      "value": "Asetus"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Reitti"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "auto keskeytetty"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "tauko"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "äänite"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "valmis"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "odottaa"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "Oli virhe, kun yrität poistaa harjoituksen Huawei Health, voit silti poistaa sen Huawei Health-sovelluksessa."
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "Oli virhe, kun yrittää poistaa harjoitus sovelluksesta."
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Haluatko myös poistaa Huawei Health tallennetun harjoituksen?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Poista Huawei Health?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Haluatko todella poistaa harjoituksen, et voi palauttaa sitä, kun se on poistettu?"
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Poista Harjoitus?"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Reitti"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Kokonaisenergia"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Poltettu Energia"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Nopeus Ajan Myötä"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Nopeus"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "päättymisaika"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "aloitusaika"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Kesto"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Aika"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Laskeutua"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Nouseva"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Korkeus"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Korkeus Ajan Myötä"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Matka"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Jotkut tässä sovelluksessa tallennetut harjoitukset poistettiin äskettäin Huawei Health, mutta ne tallennetaan silti tänne, voit synkronoida ne uudelleen asetuksissa tai poistaa ne manuaalisesti."
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Ei voitu poistaa harjoitus Huawei Health, yritä uudelleen myöhemmin tai tarkistaa Huawei Health App. On mahdollista, että treeniä ei lisätty Huawei Healthiin, mikä tarkoittaa, että emme voi muokata sitä."
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Poista Huawei Health"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Ei voinut lisätä harjoitus Huawei Health, yritä uudelleen myöhemmin."
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Lisää Huawei Health"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Laskeutua"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Tilaus"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Lajittele"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Onko Reitti"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Onko Rotu"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Suodatin"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Päivämäärä"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Tuntematon"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Segmentti"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Merkki"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Syli"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Automaattinen Jatkaminen"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Jatkaa"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Automaattinen Tauko"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Keskeyttää"
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Keskeyttää"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Henkilö on muokannut tai lisännyt tämän harjoituksen manuaalisesti, joten tiedot voivat olla epätarkkoja tai jopa vääriä."
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Kommentti"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Rotu"
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Tuntematon"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Patikointi"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Luistelu"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Pyöräily"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Kävely"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Käynnissä"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Tyyppi"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Uusi Harjoitus"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Poltetut Kalorit"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Avg. Nopeus"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Nykyinen Nopeus"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "alkamispäivä"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Tauon Kesto"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Aktiivinen Kesto"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Kesto"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Poljin Aivohalvauksia"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Vaihe"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Matka"
+    },
+    {
+      "name": "Workout",
+      "value": "Harjoitus"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Oli virhe, kun yrittää näyttää tilastoja tästä harjoitus, yritä uudelleen."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Valitettavasti harjoitusta ei voitu jatkaa."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "Sovellus on nyt edelleen tallentaa workout."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Valitettavasti workout ei voitu tallentaa."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Treenisi onnistuttiin pelastamaan."
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Valmis Harjoitus"
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Anna Manuaalisesti"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Millainen harjoitus haluat tallentaa?"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Harjoitus"
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Harjoitukset"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Kääntäjät"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Koodin avustajat"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "lläpitäjät"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Osallistuminen"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Saatuaan tavaramerkki valituksen \" OutRun \"on nyt nimeltään\" Out-Run \" Britanniassa. Tämän päivityksen päätarkoitus on käsitellä tätä valitusta.\n\nLisäksi se sisältää seuraavat virheenkorjaukset:\n\n- joskus Tietoja ei lisätty oikein Applen terveyteen, tämä olisi nyt korjattava\n- nouseva ja laskeva korkeus vaihdettiin tilastoihin, nyt ne ovat oikeassa järjestyksessä\n- iOS 14: n muutosten vuoksi on ollut joitain tyyliongelmia, kaiken pitäisi näyttää jälleen normaalisti\n\nJa tätä päivitystä varten mikään ei muuttunut.\n\nJos sinulla on kysyttävää tai palautetta, ota rohkeasti yhteyttä outrun@tadris.de.\n\nTim, Kehittäjä."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Viimeisestä päivityksestä on kulunut melko kauan, ja vaikka työskentelen edelleen joitain perusteellisempia muutoksia OutRuniin, tämä päivitys merkitsee myös valtavaa askelta tämän sovelluksen kehityksessä.\n\nOlen iloinen voidessani ilmoittaa, että OutRun on nyt saatavana YHDELLÄTOISTA muulla kielellä, mikä tuo meidät yhteensä kolmellatoista ja kaikki kiitos muutamalle todella upealle henkilölle, jotka löytyvät tämän projektin README-lähdekoodivarastosta .\n\nMuuten tässä versiossa ei ole paljon muuttunut:\n\n- Asetuksissa on uusi avustaja-välilehti, jossa luetellaan kaikki OutRuniin huomattavasti lisänneet ihmiset\n- ja lähdekoodipainike siirrettiin Tukipalvelusta Sovellustiedot-kohtaan\n\nJa se on se.\n\nJos sinulla on kysyttävää tai palautetta, ota rohkeasti yhteyttä osoitteeseen outrun@tadris.de.\n\nTim, kehittäjä."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Tämä sovellus tarvitsee liikkeisiin liittyviä seurantaominaisuuksia tietojen tallentamiseksi, kuten vaiheet harjoituksen aikana"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Tämä sovellus tarvitsee sijaintisi seurata liikuntaa"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Tämä sovellus tarvitsee sijaintisi seurata liikuntaa"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Tämä sovellus tarvitsee sijaintisi seurata liikuntaa"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Tämä sovellus tarvitsee pääsyn terveystietoihisi lukeaksesi ja mahdolliset oikeat harjoitukset, jotka Tämä sovellus on rakentanut"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Tämä sovellus tarvitsee pääsyn terveystietoihisi tallentaaksesi tämän sovelluksen rakentamat harjoitukset"
+    }
+  ]
+}

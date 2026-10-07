@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "accent_color",
+      "value": "#FF9200"
+    },
+    {
+      "name": "accent_color_swapped",
+      "value": "#FF6D00"
+    },
+    {
+      "name": "background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "foreground_color",
+      "value": "#F8F8F8"
+    },
+    {
+      "name": "primary_color",
+      "value": "#000000"
+    },
+    {
+      "name": "secondary_color",
+      "value": "#767676"
+    },
+    {
+      "name": "table_view_separator",
+      "value": "#40808080"
+    }
+  ]
+}

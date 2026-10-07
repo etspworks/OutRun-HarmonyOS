@@ -1,0 +1,18 @@
+{
+  "src": [
+    "pages/StartScreenViewControllerPage",
+    "pages/SetupViewControllerPage",
+    "pages/PolicyViewControllerPage",
+    "pages/WorkoutListViewControllerPage",
+    "pages/SettingsViewControllerPage",
+    "pages/EditWorkoutControllerPage",
+    "pages/NewWorkoutViewControllerPage",
+    "pages/WorkoutViewControllerPage",
+    "pages/ProgressViewControllerPage",
+    "pages/ClearSettingsViewControllerPage",
+    "pages/DebugControllerPage",
+    "pages/HKImportListControllerPage",
+    "pages/EditWorkoutPauseControllerPage",
+    "pages/WorkoutMapViewControllerPage"
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "Workout_Pauses",
+      "value": "Přestávky"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Tento trénink byl někým ručně upraven, takže data mohou být nepřesná nebo i falešná."
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Komentář"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Závod"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Spálené kalorie"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Prům. rychlost"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Současná rychlost"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Počáteční datum"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Čas přestávek"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Čas"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Čas strávený v pohybu"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Záběry pedálů"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Kroky"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Vzdálenost"
+    },
+    {
+      "name": "Workout",
+      "value": "Trénink"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Nastala chyba při zobrazování statistik, zkuste to prosím znovu."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Ve Vašem tréninku bohužel nešlo pokračovat."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "Aplikace nadále měří Váš trénink."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Trénink se bohužel nepodařilo uložit."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Váš trénink se úspěšně uložil."
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Dokončený trénink"
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Zadat ručně"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Jaký typ tréninku chcete nahrát?"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Trénink"
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Vaše tréninky"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Při sestavení tréninku došlo k logické chybě."
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Vystředit"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "Signál GPS není dost přesný na kvalitní měření trasy, hledání přesného signálu může trvat několik sekund až minutu. Jestli se tohle ve Vašem místě bydliště děje běžně, zkuste přesnost poupravit v nastavení."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Čekání na GPS"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Raději uložit"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Jste si jistí? Data budou ztracena a nelze je obnovit."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Zahodit"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Chcete tento trénink uložit nebo zahodit?"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Uložit"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Zastavit nahrávání"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "Menu nelze zavřít, když probíhá trénink. Chcete trénink přerušit, nebo pokračovat?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Trénink se nahrává"
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Všechny nesynchronizované tréninky se úspěšně synchronizovaly s Huawei Zdravím."
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Synchronizovat všechny nesynchronizované tréninky"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Importovat z Huawei Zdraví"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Automaticky importovat tréninky"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Pokud je povolena synchronizace, aplikace se pokusí synchronizovat s Huawei Zdravím, takže nová data této aplikace se automaticky uloží do aplikace Zdraví a pokud se změní hmotnost ve Zdraví, automaticky se upraví i zde.\n\nPokud by byla povolena možnost „Automatický import“, aplikace se pokusí automaticky importovat nové tréninky od jiných aplikací z místní databáze.\n\n'Synchronizovat všechny tréninky' synchronizuje všechny tréninky v této aplikaci, které ještě nejsou synchronizovány, na Huawei Zdraví."
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Synchronizovat hmotnost"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Synchronizovat tréninky"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Předvolby Huawei Zdraví"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Tato aplikace potřebuje vaši váhu pro odhad spálené energie během tréninku. Poskytnutí Vašeho jména je zcela dobrovolné."
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Váha"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Jméno"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Uživatelská nastavení"
+    },
+    {
+      "name": "Settings",
+      "value": "Nastavení"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Vaše trasa"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "automaticky pozastaveno"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "pozastaveno"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "nahrávání"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "připraven"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "čekání"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "Při pokusu o odstranění tréninku z Huawei Zdraví došlo k chybě, stále ji můžete odstranit v Huawei Zdraví."
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "Při pokusu o odstranění tréninku došlo k chybě."
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Chcete také odstranit trénink uložený v Huawei Zdraví?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Smazat v Huawei Zdraví?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Opravdu chcete tŕenink smazat? Nepůjde ho obnovit."
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Smazat trénink?"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Trasa"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Celková energie"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Spálená energie"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Rychlost v průběhu času"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Nejvyšší rychlost"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Prům. rychlost"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Rychlost"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "Ukončit čas"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Začít čas"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Délka trvání"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Čas"
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Klesání"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Stoupání"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Nadmořská výška"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Nadmořská výška v průběhu času"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Vzdálenost"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Některé tréninky v této aplikaci byly nedávno odstraněny z Huawei Zdraví, ale zůstávají tu uložené. V nastavení je můžete zase synchronizovat, anebo ručně smazat."
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Nepodařilo se odstranit trénink z Huawei Zdraví, zkuste to prosím později nebo se podívejte do Zdraví. Je možné, že trénink vůbec nepochází z aplikace OutRun, v takovém případě ho nemůžeme odstranit."
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Odstranit z Huawei Zdraví"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Trénink se nepodařilo přidat do Huawei Zdraví, zkuste to prosím později."
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Přidat do Huawei Zdraví"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Sestupně"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Seřadit podle"
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Pořadí"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Má trasu"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Je závod"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filtr"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Datum"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Neznámé"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Úsek"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Značka"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Kolo"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Automaticky pokračovat"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Pokračovat"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Automatická přestávka"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Přestávka"
+    },
+    {
+      "name": "NotSet",
+      "value": "Nenastaveno"
+    },
+    {
+      "name": "All",
+      "value": "Vše"
+    },
+    {
+      "name": "Stop",
+      "value": "Stop"
+    },
+    {
+      "name": "Start",
+      "value": "Start"
+    },
+    {
+      "name": "Close",
+      "value": "Zavřít"
+    },
+    {
+      "name": "Discard",
+      "value": "Zahodit"
+    },
+    {
+      "name": "Edit",
+      "value": "Upravit"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Vypnout"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Zkusit znovu"
+    },
+    {
+      "name": "Open",
+      "value": "Otevřít"
+    },
+    {
+      "name": "Grant",
+      "value": "Povolit"
+    },
+    {
+      "name": "Skip",
+      "value": "Přeskočit"
+    },
+    {
+      "name": "Finish",
+      "value": "Dokončit"
+    },
+    {
+      "name": "Next",
+      "value": "Další"
+    },
+    {
+      "name": "No",
+      "value": "Ne"
+    },
+    {
+      "name": "Yes",
+      "value": "Ano"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Zdá se, že tu nic není."
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "Žádná dostupná data"
+    },
+    {
+      "name": "Okay",
+      "value": "OK"
+    },
+    {
+      "name": "Standard",
+      "value": "Standard"
+    },
+    {
+      "name": "Done",
+      "value": "Hotovo"
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Načítání… Prosím neodcházejte"
+    },
+    {
+      "name": "Loading",
+      "value": "Načítání…"
+    },
+    {
+      "name": "Delete",
+      "value": "Smazat"
+    },
+    {
+      "name": "Continue",
+      "value": "Pokračovat"
+    },
+    {
+      "name": "Save",
+      "value": "Uložit"
+    },
+    {
+      "name": "Cancel",
+      "value": "Zrušit"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Nastavení"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Časová osa"
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Zobrazovat aktuální rychlost"
+    },
+    {
+      "name": "Changelog",
+      "value": "Novinky"
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "Aplikaci se nepodařilo vytvořit soubor GPX, kontaktujte prosím podporu."
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "Aplikaci se nepodařilo vytvořit zálohu, kontaktujte prosím podporu."
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "Záloha OutRun"
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "Soubor GPX"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Vyberte metodu exportu níže. Pokud máte pocit, že zde nějaká položka chybí, můžete nám napsat a navrhnout ji."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Exportovat trénink"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Vyberte prosím preferovaný typ mapy."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Typ mapy"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satelitní"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Terén"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Hybridní"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Upravit přestávky"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Vlastní"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Info"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Upravit trénink"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Nový trénink"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Změna tréninku v Huawei Zdraví se nezdařila. Je možné, že záznam nevznikl v aplikaci OutRun, v takovém případě ho nemůžeme měnit. Záznam zůstal v Huawei Zdraví nezměněn, ale už není propojený s aplikací OutRun. Jestli chcete nový trénink přidat do Huawei Zdraví, musíte to udělat ručně."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Přidávání tréninku do Huawei Zdraví se nezdařilo"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Přidávání tréninku se nezdařilo, zkuste to prosím znovu."
+    },
+    {
+      "name": "Yesterday",
+      "value": "Včera"
+    },
+    {
+      "name": "Today",
+      "value": "Dnes"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "Zdá se, že když jste si naposledy měřili trénink, aplikaci jste bez uložení zavřeli. Data se nám bohužel nepodařilo uchovat."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Ztracený trénink"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Z nějakého důvodu se trénink nepodařilo uložit do Huawei Zdraví."
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Je nám líto, trénink se nepodařilo uložit."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "Zdá se, že když jste si naposledy měřili trénink, aplikaci jste bez uložení zavřeli. Podařilo se nám tato data uchovat, chcete je uložit?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Obnovený trénink"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "Neudělili jste přístup k pohybovým a fitness datům. Chcete-li to nastavení změnit, je to potřeba udělat ručně v nastavení telefonu. Chcete otevřít nastavení?"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "Aplikace potřebuje přístup k datům pohybu a fitness, aby mohla např. počítat kroky."
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Přístup k pohybu"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Zdá se, že jste nám nepovolili všechny potřebné kategorie Huawei Zdraví. Chcete to zkusit znovu, nebo raději synchronizaci vypnout?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Protože chcete synchronizovat své tréninky a hmotnost data do Huawei Zdraví, potřebujeme povolení číst a zapisovat do těchto kategorií."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Přístup ke Zdraví"
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Zdá se, že jste neudělili povolení zaznamenat vaší polohu. Vězte prosím, že to je nutné pro správné fungování aplikace. Chcete-li toto nastavení změnit, je potřeba přejít do nastavení telefonu a oprávnění udělit. Poté stiskněte tlačítko znovu. Chcete otevřít nastavení?"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "Aktuálně má OutRun přístup k poloze pouze v době, kdy je tato aplikace otevřená. Pro sledování cvičení je vhodné poskytnout přístup k poloze na pozadí, takže váš telefon nemusí být zapnutý s aplikací otevřenou po celou dobu. Chcete-li nám poskytnout \"vždy\" přístup k vaší poloze, musíte otevřít nastavení telefonu a změnit jej ručně."
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Zobrazovat tempo"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Zvolený typ tréninku bude výchozím pro novou nahrávku. Stále si můžete vybrat jiný dlouhým stiskem tlačítka „plus“ nebo ťuknutím na štítek na nahrávací obrazovce"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Omezený přístup k poloze"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "Přístup k poloze je potřeba ke stopování trasy nebo třeba měření vzdálenosti."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Přístup k poloze"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Chceme Vám zajistit správné fungování aplikace, k tomu potřebujeme některá oprávnění, například přístup k polohovým službám. Nebo pokud chcete synchronizovat data se službou Huawei Zdraví, potřebujeme povolit čtení a zápis."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "Teď už jen zbývá udělit oprávnění"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Automatický import tréninků"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Jestli chcete všechna svá data na jednom místě, služba Huawei Zdraví je dobrou volbou, protože je integrovaná do systému HarmonyOS. Synchronizace je ale úplně dobrovolná a je nutno podotknout, že jestli ji chcete povolit, data mohou opustit Váš telefon a ukládat se na servery Applu – více se dočtete v Ochraně osobních údajů. Pokud zapnete automatický import, aplikace se pokusí importovat tréninky v databázi od aplikací, abyste vše měli přehledně před sebou."
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Synchronizovat hmotnost"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Synchronizovat tréninky"
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Zapnout synchronizaci se službou Huawei Zdraví?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Hmotnost"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Imperiální"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metrické"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Preferované jednotky"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Jméno"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Uživatelské jméno"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "Ke správnému fungování aplikace jsou potřeba Vaše základní údaje. Vaše hmotnost se například používá k výpočtu spálených kalorií. (Jméno vyplňte zcela dobrovolně)"
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Pojďme se bavit o Vás"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Tohle je nejnudnější část, takže se do toho pusťme. Jestli se Vám nechce číst podmínky (což chápeme), tady je malé shrnutí: Veškerá Vaše data se ukládají lokálně (výjimkou je synchronizace se službou Huawei Zdraví), máte je zcela pod kontrolou a nemusíte se bát úniků ani zneužití."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Čas na formality"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "O svá data se nebojte, nic z nich neopustí Vaše zařízení, pokud to sami nechcete."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Důraz na soukromí"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Po skončení Vašeho tréninku si zobrazte podrobné statistiky, jako je maximální rychlost nebo průměrné tempo"
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Podrobné statistiky"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Nahrávejte svůj běh, chůzi nebo jízdu na kole s nejvyšší přesností, jakou Váš telefon dokáže."
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Přesné stopování"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Začít"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "tréninková aplikace, které záleží na Vašem soukromí – není třeba se nikam registrovat ani odesílat citlivá data na něčí servery.\nO tom ale později, teď se pusťme do práce."
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "Vítá Vás"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Některé tréninky z Huawei Zdraví se nepodařilo přidat, stále se ukazují v seznamu, zkuste to prosím později."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Chcete importovat všechny tréninky v Huawei Zdraví do aplikace OutRun? Může to chvíli trvat."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Importovat všechny tréninky?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "Trénink z Huawei Zdraví se nepodařilo přidat, zkuste to prosím později."
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Chcete importovat tento trénink z Huawei Zdraví do aplikace OutRun?"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Importovat tento trénink?"
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Importovat"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Importovat vše"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "Při načítání tréninků z Huawei Zdraví došlo k chybě."
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Stav vydání"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Verze aplikace"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "Odkaz nelze otevřít kvůli systémové chybě."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Prohlédnout si zdrojový kód"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Zdá se, že v telefonu nemáte žádného e-mailového klienta, nebo se nám nedaří ho otevřít. I tak nás můžete kontaktovat na adrese support@tadris.de v případě jakýchkoliv problémů s aplikací."
+    },
+    {
+      "name": "Settings_Email",
+      "value": "E-mail"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Ochrana osobních dat"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Podmínky užívání"
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Podpora"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Pokud při nahrávání aplikace padá nebo podobně, zkuste vypnout možnost „Zobrazovat mapu“, protože ta nejčastěji způsobuje problémy.\n\nPři zapnuté možnosti „Zobrazovat tempo“ se místo rychlosti ukazuje tempo. Pokud zapnete možnost „Zobrazovat aktuální rychlost“, bude se ukazovat průměrná rychlost nebo tempo z posledního kilometru, ne celkově."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Vypnuto (nedoporučuje se)"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Poslední pokus"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Přijatelná"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Vysoká"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Standardní"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "Při příjmu signálů GPS jsou odesílány s určitou přesností, aby bylo možné určit, zda jsou data vhodná pro použití. V závislosti na tom, jak nastavíte tento filtr, se kvalita zaznamenaných tréninků bude lišit.\n\nV ideálním případě by měl filtr zůstat na „Standardním“, ale pokud se vyskytnou komplikace s vašimi daty (např. že jsou nepřesné nebo je vše odfiltrováno), můžete zkusit jiný."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Kýžená přesnost"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "Přesnost GPS"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Zobrazit mapu"
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Standardní typ"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Předvolby nahrávání"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "Vybraná jednotka bude sloužit k zobrazení dat"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Vyberte jednotku"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Jednotka hmotnosti"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Jednotka energie"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Jednotka rychlosti"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Jednotka nadmořské výšky"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Jednotka vzdálenosti"
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Předvolby jednotek"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "Při mazání Vašich dat v Huawei Zdraví došlo k chybě, je možné, že z nich něco zůstalo. Zkuste je prosím smazat přímo v aplikaci Zdraví."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Mazání se nezdařilo"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "Při mazání Vašich dat došlo k chybě, je možné, že z nich něco zůstalo. Zkuste to prosím znovu později."
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Mazání se nezdařilo"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Chcete si ponechat tréninky, které jste nahráli do aplikace Zdraví? Nebo je chcete také smazat?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Smazat data v Huawei Zdraví?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Jste si jistí, že chcete smazat veškerá data aplikace? Trvale přijdete o veškerá svá nastavení i všechny tréninky, pokud jste je nezálohovali do Huawei Zdraví."
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Smazat vše?"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Smazat všechna data"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Export tréninků"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Import nových tréninků"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Zálohu se nepodařilo správně načíst, pro více informací prosím kontaktujte podporu."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "Nové tréninky byly importovány. Ty, které už v databázi jsou jsme vynechali."
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Importovat data ze zálohy"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Vytvořit zálohu"
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Zálohy aplikace OutRun, na rozdíl od jiných aplikací, jsou jednoduše soubory. Pro jejich vložení do aplikace nebo přenos do jiného zařízení nepotřebujete speciální nástroje. Zůstávají také lokálně ve vašem zařízení (pokud je nenahrajete na cloud).\n\nPři vytváření zálohy se zobrazí soubor '.orbup', který můžete sdílet s jakoukoli aplikací chcete. Buďte ale obezřetní – data uvnitř tohoto souboru nejsou šifrována, jejich odesláním nebo nahráním do jiné služby můžete ohrozit své soukromí, mějte to prosím na paměti.\n\nChcete-li importovat zálohu, stačí vybrat soubor '.orbup' z místa, kde jste ji dříve uložili, aplikace pak importuje všechny tréninky obsažené v záloze a sama se postará o to, aby nevznikly duplikáty."
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Předvolby dat"
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Zdá se, že vše je už synchronizováno."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "Při synchronizaci všech tréninků do Huawei Zdraví došlo k chybě, některé tréninky nemusely být synchronizovány."
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Neznámý"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Turistika"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Bruslení"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Jízda na kole"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Chůze"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Běh"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Druh"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Nový trénink"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "Celk. tempo"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "Akt. tempo"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Překladatelé"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Přispěvatelé kódu"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Správci"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Příspěvek"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Na základě stížnosti na porušení autorských práv se „OutRun“ ve Velké Británii přejmenovává na „Out-Run“ – to je hlavním účelem této aktualizace.\n\nKromě toho obsahuje tyto opravy chyb:\n\n- data se občas správně nenahrávala do Apple Zdraví, nyní opraveno\n- ve statistikách bylo obráceno stoupání a klesání v nadmořské výšce, nyní opraveno\n- některé změny v iOS 14 způsobovaly problémy ve vzhledu aplikace, nyní by vše mělo vypadat normálně\n\nA to jsou veškeré změny v této verzi.\n\nPokud máte dotaz nebo zpětnou vazbu, neváhejte nás kontaktovat na outrun@tadris.de.\n\nTim, vývojář aplikace."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Od poslední aktualizace uběhla poměrně dlouhá doba a zatímco stále pracuji na některých zásadnějších změnách OutRun, tato aktualizace také znamená obrovský krok ve vývoji této aplikace.\n\nJsem velmi šťastný, že mohu oznámit, že OutRun bude nyní k dispozici v devíti JEDENÁCTI jazycích, což nás přivádí k celkem třinácti a to vše díky několika opravdu skvělým lidem, které najdete v README tohoto projektu uvnitř úložiště zdrojového kódu .\n\nKromě toho se v této verzi moc nezměnilo:\n\n- V nastavení je nová záložka přispěvatelů, která obsahuje seznam všech lidí, kteří se do OutRun výrazně přidali\n- a tlačítko zdrojového kódu bylo přesunuto z 'Podpora' do 'App-Info'\n\nA to je to.\n\nMáte-li jakékoli dotazy nebo zpětnou vazbu, neváhejte kontaktovat na outrun@tadris.de.\n\nTim, vývojář."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Aplikace potřebuje rozpoznávat pohyb Vašeho zařízení, aby mohla měřit data jako jsou kroky při chůzi nebo běhu"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Aplikace potřebuje Vaši polohu ke stopování tréninků"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Aplikace potřebuje Vaši polohu ke stopování tréninků"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Aplikace potřebuje Vaši polohu ke stopování tréninků"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Aplikace potřebuje přístup k Vašim zdravotním datům, aby mohla číst a případně opravit data, která vytvořila"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Aplikace potřebuje přístup k Vašim zdravotním datům, aby do nich mohla ukládat Vaše tréninky"
+    }
+  ]
+}

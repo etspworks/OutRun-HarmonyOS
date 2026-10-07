@@ -1,0 +1,1108 @@
+{
+  "string": [
+    {
+      "name": "Edit",
+      "value": "Aanpassen"
+    },
+    {
+      "name": "Turn_Off",
+      "value": "Uitzetten"
+    },
+    {
+      "name": "Try_Again",
+      "value": "Opnieuw proberen"
+    },
+    {
+      "name": "Open",
+      "value": "Open"
+    },
+    {
+      "name": "Grant",
+      "value": "Toestaan"
+    },
+    {
+      "name": "Skip",
+      "value": "Overslaan"
+    },
+    {
+      "name": "Finish",
+      "value": "Afronden"
+    },
+    {
+      "name": "Next",
+      "value": "Volgende"
+    },
+    {
+      "name": "No",
+      "value": "Nee"
+    },
+    {
+      "name": "Yes",
+      "value": "Ja"
+    },
+    {
+      "name": "NoData_Message",
+      "value": "Er lijkt hier niets te zijn."
+    },
+    {
+      "name": "NoDataAvailable",
+      "value": "Geen data beschikbaar"
+    },
+    {
+      "name": "Okay",
+      "value": "Ok"
+    },
+    {
+      "name": "Standard",
+      "value": "Standaard"
+    },
+    {
+      "name": "Done",
+      "value": "Klaar"
+    },
+    {
+      "name": "Loading_DoNotClose",
+      "value": "Laden… Niet sluiten alstublieft"
+    },
+    {
+      "name": "Loading",
+      "value": "Laden…"
+    },
+    {
+      "name": "Delete",
+      "value": "Verwijder"
+    },
+    {
+      "name": "Continue",
+      "value": "Doorgaan"
+    },
+    {
+      "name": "Save",
+      "value": "Opslaan"
+    },
+    {
+      "name": "Cancel",
+      "value": "Annuleren"
+    },
+    {
+      "name": "OutRun",
+      "value": "OutRun"
+    },
+    {
+      "name": "TabBar_Settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "TabBar_Timeline",
+      "value": "Tijdlijn"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Message",
+      "value": "Weet je zeker dat je de training wil verwijderen? De gegevens kunnen niet worden teruggehaald."
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_Title",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Message",
+      "value": "Wil je de training opslaan of verwijderen?"
+    },
+    {
+      "name": "NewWorkoutViewController_Save_Title",
+      "value": "Opslaan"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Action_StopRecording",
+      "value": "Stop opnemen"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Message",
+      "value": "Je kan dit menu niet sluiten tijdens een training. Wil je de training stoppen of voortzetten?"
+    },
+    {
+      "name": "NewWorkoutViewController_Cancel_Error_Recording_Title",
+      "value": "Training wordt opgenomen"
+    },
+    {
+      "name": "NotSet",
+      "value": "Niet ingesteld"
+    },
+    {
+      "name": "All",
+      "value": "Alles"
+    },
+    {
+      "name": "Stop",
+      "value": "Stoppen"
+    },
+    {
+      "name": "Start",
+      "value": "Starten"
+    },
+    {
+      "name": "Close",
+      "value": "Afsluiten"
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Message",
+      "value": "Het GPS-signaal is niet precies genoeg voor een goede routekwaliteit. Het vinden van een accuraat signaal kan enkele seconden tot een minuut duren. Wanneer dit vaker voorkomt op de plek waar je woont, pas dan de nauwkeurigheid aan in de appinstellingen."
+    },
+    {
+      "name": "NewWorkoutViewController_WaitingAlert_Title",
+      "value": "Wachten op GPS"
+    },
+    {
+      "name": "NewWorkoutViewController_Discard_SaveInstead",
+      "value": "Toch opslaan"
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Success",
+      "value": "Je training is succesvol opgeslagen."
+    },
+    {
+      "name": "WorkoutStats_DescendingAltitude",
+      "value": "Afdaling"
+    },
+    {
+      "name": "WorkoutStats_AscendingAltitude",
+      "value": "Beklimming"
+    },
+    {
+      "name": "WorkoutList_Order_Descending",
+      "value": "Afdaling"
+    },
+    {
+      "name": "Workout_Comment",
+      "value": "Reactie"
+    },
+    {
+      "name": "Workout_Race",
+      "value": "Wedstrijd"
+    },
+    {
+      "name": "Workout_Type_Skating",
+      "value": "Rolschaatsen"
+    },
+    {
+      "name": "NewWorkoutAlert_Message",
+      "value": "Welke soort training wil je opnemen?"
+    },
+    {
+      "name": "NewWorkoutAlert_Title",
+      "value": "Training"
+    },
+    {
+      "name": "AppleHealth_Add_Error",
+      "value": "Kon de training niet toevoegen aan Huawei Gezondheid. Probeer later nog eens."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Error",
+      "value": "Helaas kon de training niet worden vervolgd."
+    },
+    {
+      "name": "NewWorkoutViewController_Recenter",
+      "value": "Centreren"
+    },
+    {
+      "name": "NewWorkoutCompletion_Title",
+      "value": "Afgewerkte training"
+    },
+    {
+      "name": "NewWorkoutAlert_EnterManually",
+      "value": "Handmatig invoeren"
+    },
+    {
+      "name": "WorkoutListViewController_Headline",
+      "value": "Je trainingen"
+    },
+    {
+      "name": "Workout_RollingPace",
+      "value": "R. tempo"
+    },
+    {
+      "name": "Workout_BurnedCalories",
+      "value": "Verbrande calorieën"
+    },
+    {
+      "name": "Workout_AverageSpeed",
+      "value": "Gem. snelheid"
+    },
+    {
+      "name": "Workout_CurrentSpeed",
+      "value": "Huidige snelheid"
+    },
+    {
+      "name": "Workout_StartDate",
+      "value": "Startdatum"
+    },
+    {
+      "name": "Workout_PauseDuration",
+      "value": "Pauseduur"
+    },
+    {
+      "name": "Workout_ActiveDuration",
+      "value": "Actieve duur"
+    },
+    {
+      "name": "Workout_Duration",
+      "value": "Duratie"
+    },
+    {
+      "name": "Workout_Strokes",
+      "value": "Pedaalslagen"
+    },
+    {
+      "name": "Workout_Steps",
+      "value": "Stappen"
+    },
+    {
+      "name": "Workout_Distance",
+      "value": "Afstand"
+    },
+    {
+      "name": "Workout",
+      "value": "Training"
+    },
+    {
+      "name": "WorkoutViewController_LoadingError",
+      "value": "Er ging iets mis bij het laten zien van de statistieken van deze training. Probeer het opnieuw."
+    },
+    {
+      "name": "NewWorkoutCompletion_Continue_Success",
+      "value": "De app vervolgt nu de opname van je training."
+    },
+    {
+      "name": "NewWorkoutCompletion_Save_Error",
+      "value": "Helaas kon jouw training niet worden opgeslagen."
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Message",
+      "value": "Wil je ook de training verwijderen die is opgeslagen in Huawei Gezondheid?"
+    },
+    {
+      "name": "WorkoutDeletion_AppleHealth_Title",
+      "value": "Verwijderen in Huawei Gezondheid?"
+    },
+    {
+      "name": "WorkoutDeletion_Message",
+      "value": "Weet je zeker dat je de training wil verwijderen, ook al kan je hem na verwijdering niet meer terughalen?"
+    },
+    {
+      "name": "WorkoutDeletion_Title",
+      "value": "Training verwijderen?"
+    },
+    {
+      "name": "WorkoutStats_Route",
+      "value": "Route"
+    },
+    {
+      "name": "WorkoutStats_TotalEnergy",
+      "value": "Totale energie"
+    },
+    {
+      "name": "WorkoutStats_BurnedEnergy",
+      "value": "Verbrande energie"
+    },
+    {
+      "name": "WorkoutStats_SpeedOverTime",
+      "value": "Snelheid over tijd"
+    },
+    {
+      "name": "WorkoutStats_TopSpeed",
+      "value": "Topsnelheid"
+    },
+    {
+      "name": "WorkoutStats_AverageSpeed",
+      "value": "Gem. snelheid"
+    },
+    {
+      "name": "WorkoutStats_Speed",
+      "value": "Snelheid"
+    },
+    {
+      "name": "WorkoutStats_EndTime",
+      "value": "Eindtijd"
+    },
+    {
+      "name": "WorkoutStats_StartTime",
+      "value": "Begintijd"
+    },
+    {
+      "name": "WorkoutStats_Duration",
+      "value": "Duratie"
+    },
+    {
+      "name": "WorkoutStats_Time",
+      "value": "Tijd"
+    },
+    {
+      "name": "WorkoutStats_Altitude",
+      "value": "Hoogte"
+    },
+    {
+      "name": "WorkoutStats_AltitudeOverTime",
+      "value": "Hoogte over tijd"
+    },
+    {
+      "name": "WorkoutStats_Distance",
+      "value": "Afstand"
+    },
+    {
+      "name": "AppleHealth_RecentlyRemovedWorkouts",
+      "value": "Sommige trainingen die opgeslagen zijn in deze app, zijn recent verwijderd uit Huawei Gezondheid, maar zijn hier nog steeds opgeslagen. Je kan ze opnieuw synchroniseren via Instellingen of handmatig verwijderen."
+    },
+    {
+      "name": "AppleHealth_Remove_Error",
+      "value": "Kon de training niet uit Huawei Gezondheid verwijderen. Probeer het later nog eens of bekijk hem in de Huawei Gezondheid-app. Mogelijk is de training niet door OutRun toegevoegd aan Huawei Gezondheid, waardoor deze niet aangepast kan worden."
+    },
+    {
+      "name": "AppleHealth_Remove",
+      "value": "Verwijder uit Huawei Gezondheid"
+    },
+    {
+      "name": "AppleHealth_Add",
+      "value": "Voeg toe aan Huawei Gezondheid"
+    },
+    {
+      "name": "WorkoutList_SortBy",
+      "value": "Sorteer op"
+    },
+    {
+      "name": "WorkoutList_Filter_HasRoute",
+      "value": "Heeft route"
+    },
+    {
+      "name": "WorkoutList_Filter_IsRace",
+      "value": "Is wedstrijd"
+    },
+    {
+      "name": "WorkoutList_Filter",
+      "value": "Filter"
+    },
+    {
+      "name": "WorkoutList_Sort_Date",
+      "value": "Datum"
+    },
+    {
+      "name": "WorkoutEvent_Type_Unknown",
+      "value": "Onbekend"
+    },
+    {
+      "name": "WorkoutEvent_Type_Segment",
+      "value": "Gesegmenteerd"
+    },
+    {
+      "name": "WorkoutEvent_Type_Marker",
+      "value": "Markering"
+    },
+    {
+      "name": "WorkoutEvent_Type_Lap",
+      "value": "Ronde"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoResume",
+      "value": "Automatisch voortzetten"
+    },
+    {
+      "name": "WorkoutEvent_Type_Resume",
+      "value": "Voortzetten"
+    },
+    {
+      "name": "WorkoutEvent_Type_AutoPause",
+      "value": "Automatische pauze"
+    },
+    {
+      "name": "WorkoutEvent_Type_Pause",
+      "value": "Pauze"
+    },
+    {
+      "name": "Workout_Pauses",
+      "value": "Pauzes"
+    },
+    {
+      "name": "Workout_IsUserModified_Text",
+      "value": "Deze training is aangepast of handmatig toegevoegd. Daardoor is het mogelijk dat de data onnauwkeurig of nep is."
+    },
+    {
+      "name": "Workout_Type_Unknown",
+      "value": "Onbekend"
+    },
+    {
+      "name": "Workout_Type_Hiking",
+      "value": "Wandelen"
+    },
+    {
+      "name": "Workout_Type_Walking",
+      "value": "Lopen"
+    },
+    {
+      "name": "Workout_Type_Cycling",
+      "value": "Fietsen"
+    },
+    {
+      "name": "Workout_Type_Running",
+      "value": "Rennen"
+    },
+    {
+      "name": "Workout_Type",
+      "value": "Soort"
+    },
+    {
+      "name": "Workout_NewWorkout",
+      "value": "Nieuwe training"
+    },
+    {
+      "name": "Workout_TotalPace",
+      "value": "Totaaltempo"
+    },
+    {
+      "name": "Settings_UserSettings_Description",
+      "value": "Deze app heeft je gewicht nodig om een inschatting te maken van de verbrande calorieën tijdens een training. Het invullen van je naam is optioneel."
+    },
+    {
+      "name": "Settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "WorkoutMapController_Headline",
+      "value": "Je route"
+    },
+    {
+      "name": "WorkoutBuilder_Status_AutoPaused",
+      "value": "automatische pauze"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Paused",
+      "value": "onderbroken"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Recording",
+      "value": "opname"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Ready",
+      "value": "klaar"
+    },
+    {
+      "name": "WorkoutBuilder_Status_Waiting",
+      "value": "wachten"
+    },
+    {
+      "name": "WorkoutDeletion_Error_AppleHealth_Message",
+      "value": "Er ging iets mis terwijl je probeerde de training te verwijderen uit Huawei Gezondheid. Je kunt deze nog steeds verwijderen in de Huawei Gezondheid-app."
+    },
+    {
+      "name": "WorkoutDeletion_Error_Message",
+      "value": "Er ging iets mis tijdens de poging om de training uit de app te verwijderen."
+    },
+    {
+      "name": "WorkoutList_Order",
+      "value": "Bestel"
+    },
+    {
+      "name": "NewWorkoutViewController_WorkoutBuilder_Error",
+      "value": "Er deed zich een fout voor in de logica die gebruikt wordt om de training te construeren."
+    },
+    {
+      "name": "Changelog",
+      "value": "Veranderingen"
+    },
+    {
+      "name": "EditWorkoutController_Info",
+      "value": "Informatie"
+    },
+    {
+      "name": "ShareManager_GPXError",
+      "value": "De app heeft geen GPX-bestand aangemaakt, neem contact met ons op."
+    },
+    {
+      "name": "ShareManager_BackupError",
+      "value": "De app heeft geen backup gemaakt, neem contact met ons op."
+    },
+    {
+      "name": "WorkoutShareAlert_OutRunBackup",
+      "value": "OutRun-backup"
+    },
+    {
+      "name": "WorkoutShareAlert_GPXExport",
+      "value": "GPX-bestand"
+    },
+    {
+      "name": "WorkoutShareAlert_Message",
+      "value": "Kies een van de onderstaande opties om de training te exporteren. Mocht je een optie missen, voel je dan vrij deze aan ons door te geven."
+    },
+    {
+      "name": "WorkoutShareAlert_Title",
+      "value": "Exporteer je training"
+    },
+    {
+      "name": "MapView_MapTypeAlert_Message",
+      "value": "Kies de soort kaart die je wil tonen."
+    },
+    {
+      "name": "MapView_MapTypeAlert_Title",
+      "value": "Soort kaart"
+    },
+    {
+      "name": "MapView_MapType_Satellite",
+      "value": "Satelliet"
+    },
+    {
+      "name": "MapView_MapType_Terrain",
+      "value": "Terrein"
+    },
+    {
+      "name": "MapView_MapType_Hybrid",
+      "value": "Hybride"
+    },
+    {
+      "name": "EditWorkoutController_EditPauses",
+      "value": "Pauzes bewerken"
+    },
+    {
+      "name": "EditWorkoutController_Custom",
+      "value": "Aangepast"
+    },
+    {
+      "name": "EditWorkoutController_EditWorkout",
+      "value": "Training bewerken"
+    },
+    {
+      "name": "EditWorkoutController_NewWorkout",
+      "value": "Nieuwe training"
+    },
+    {
+      "name": "EditWorkoutController_AlterWorkout_AppleHealth_Error",
+      "value": "Kon de training in Huawei Gezondheid niet veranderen. Het is mogelijk dat de training niet door OutRun is toegevoegd aan Huawei Gezondheid, wat betekent dat we deze niet kunnen wijzigen. Het oude exemplaar is nog steeds aanwezig in de Gezondheid-app, maar de verwijzing is uit deze app verwijderd. Als je de nieuwe training wilt toevoegen aan Huawei Gezondheid moet je dat handmatig doen."
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_AppleHealth_Error",
+      "value": "Geen training toegevoegd aan Huawei Gezondheid"
+    },
+    {
+      "name": "EditWorkoutController_SaveWorkout_Error",
+      "value": "Heb je geen training toegevoegd, probeer het dan nog eens."
+    },
+    {
+      "name": "Yesterday",
+      "value": "Gisteren"
+    },
+    {
+      "name": "Today",
+      "value": "Vandaag"
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Message",
+      "value": "De laatste keer dat je een training hebt opgenomen, is de app afgesloten zonder dat de training is opgeslagen. We hebben de gegevens helaas niet redden."
+    },
+    {
+      "name": "TerminationBackup_LostAlert_Title",
+      "value": "Verloren training"
+    },
+    {
+      "name": "TerminationBackup_Save_Health_Error",
+      "value": "Om een of andere reden kon de training niet worden opgeslagen in Huawei Health."
+    },
+    {
+      "name": "TerminationBackup_Save_Error",
+      "value": "Het spijt ons, de training kon niet worden gered."
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Message",
+      "value": "De laatste keer dat je een training hebt opgenomen, heb je mogelijk de app verlaten zonder de training op te slaan. We hebben de gegevens kunnen opslaan voordat de app werd afgesloten, wil je de training alsnog opslaan?"
+    },
+    {
+      "name": "TerminationBackup_SaveAlert_Title",
+      "value": "Herstelde training"
+    },
+    {
+      "name": "Setup_Permission_Motion_Error",
+      "value": "Je hebt deze app geen toestemming gegeven tot bewegings- en fitnessgegevens. Om dit te wijzigen en de app alsnog toegang te geven, moet je de toegang in HarmonyOS Instellingen handmatig inschakelen. Wil je Instellingen openen?"
+    },
+    {
+      "name": "Setup_Permission_Motion_Message",
+      "value": "Voor gegevens als de stappen die je tijdens een training zet, heeft deze app toegang nodig tot bewegings- en fitnessdata."
+    },
+    {
+      "name": "Setup_Permission_Motion",
+      "value": "Bewegingstoegang"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Error",
+      "value": "Het lijkt erop dat je ons niet de toegang tot elke gevraagde categorie van Huawei Gezondheid hebt gegeven. Wil je het nog eens proberen of wil je de synchronisatie uitschakelen?"
+    },
+    {
+      "name": "Setup_Permission_AppleHealth_Message",
+      "value": "Aangezien je wil dat wij je trainingen en gewicht opslaan in Huawei Gezondheid, hebben we je toestemming nodig om de gesynchroniseerde categorieën te lezen en te schrijven naar Huawei Gezondheid."
+    },
+    {
+      "name": "Setup_Permission_AppleHealth",
+      "value": "Gezondheidstoestemming"
+    },
+    {
+      "name": "Setup_Permission_Location_Error",
+      "value": "Het lijkt erop dat je ons geen toestemming hebt gegeven om je locatie vast te leggen. Houd er rekening mee dat dit nodig is om onze app te laten werken. Om deze instelling te wijzigen, moet je naar de instellingen van je telefoon gaan en ons alsnog toestemming geven. Druk daarna nogmaals op de knop. Wil je Instellingen openen?"
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Message",
+      "value": "We kunnen alleen toegang krijgen tot je locatie terwijl de app is geopend. Voor het bijhouden van een training is het raadzaam om toegang te geven tot de achtergrondlocatie, zodat je telefoon niet de hele tijd hoeft aan te staan met de app open. Om ‘Altijd’ toegang te geven tot je locatie moet je de instellingen van je telefoon openen en dit handmatig wijzigen."
+    },
+    {
+      "name": "Setup_Permission_Location_Restricted_Title",
+      "value": "Locatietoegang beperkt"
+    },
+    {
+      "name": "Setup_Permission_Location_Message",
+      "value": "We hebben je locatie nodig om de route en andere informatie, zoals de afstand van de trainingen, in deze app vast te leggen."
+    },
+    {
+      "name": "Setup_Permission_Location",
+      "value": "Locatietoestemming"
+    },
+    {
+      "name": "Setup_Permissions_Message",
+      "value": "Aangezien we onze diensten aan jou willen leveren, hebben we toegang nodig tot sommige API’s zoals Locatiediensten of als je wil synchroniseren met Huawei Gezondheid, ook toegang om te lezen en te schrijven naar die dienst."
+    },
+    {
+      "name": "Setup_Permissions_Title",
+      "value": "We hebben je toestemming nodig"
+    },
+    {
+      "name": "Setup_AppleHealth_AutoImportWorkouts",
+      "value": "Auto-import trainingen"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWeight",
+      "value": "Synchroniseer gewicht"
+    },
+    {
+      "name": "Setup_AppleHealth_SyncWorkouts",
+      "value": "Synchroniseer trainingen"
+    },
+    {
+      "name": "Setup_AppleHealth_Message",
+      "value": "Als je wil dat je gegevens centraal worden opgeslagen, dan is Huawei Gezondheid een goede optie, omdat het goed geïntegreerd is met HarmonyOS. De synchronisatie is echter volledig optioneel. Als je ervoor kiest om te synchroniseren met Huawei Gezondheid, zullen je gegevens mogelijk je telefoon verlaten en worden opgeslagen op servers van Huawei (meer daarover in het privacybeleid). Als je ervoor kiest om automatische importeren in te schakelen, probeert de app trainingen die door andere apps zijn toegevoegd te importeren in de lokale database. Hierdoor houdt je één overzicht van al je trainingen."
+    },
+    {
+      "name": "Setup_AppleHealth_Title",
+      "value": "Wil je synchroniseren met Huawei Gezondheid?"
+    },
+    {
+      "name": "Setup_UserInfo_Weight",
+      "value": "Gewicht"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Imperial",
+      "value": "Brits-Amerikaans"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem_Metric",
+      "value": "Metrisch"
+    },
+    {
+      "name": "Setup_UserInfo_PreferredSystem",
+      "value": "Voorkeurssysteem"
+    },
+    {
+      "name": "Setup_UserInfo_Username_Placeholder",
+      "value": "Naam"
+    },
+    {
+      "name": "Setup_UserInfo_Username",
+      "value": "Gebruikersnaam"
+    },
+    {
+      "name": "Setup_UserInfo_Message",
+      "value": "Om een aantal van de functies in deze app mogelijk te maken hebben we wat basisinformatie nodig. Je gewicht is bijvoorbeeld nodig om de geschatte energie te berekenen die in een training wordt verbrand. (Het geven van je naam is volledig optioneel.)"
+    },
+    {
+      "name": "Setup_UserInfo_Title",
+      "value": "Laten we het nu over jou hebben"
+    },
+    {
+      "name": "Setup_Formalities_Message",
+      "value": "Dit is het meest saaie deel van het instellen, dus laten we het maar direct doen. Als je het uitgebreide beleid niet wil lezen, dan volgt hier een kort overzicht: al je gegevens worden lokaal opgeslagen (met uitzondering van de synchronisatie met Huawei Gezondheid), dus je houdt er zelf de controle over en hoeft je geen zorgen te maken over mogelijke gegevenslekken."
+    },
+    {
+      "name": "Setup_Formalities_Title",
+      "value": "Laten we beginnen met enkele formaliteiten"
+    },
+    {
+      "name": "Setup_Feature_Lock_Message",
+      "value": "Maak je geen zorgen over je gegevens; ze blijven allemaal op je apparaat, zolang je als je dat zelf wil."
+    },
+    {
+      "name": "Setup_Feature_Lock_Title",
+      "value": "Privacygericht"
+    },
+    {
+      "name": "Setup_Feature_Chart_Message",
+      "value": "Kijk naar gedetailleerde statistieken zoals de topsnelheid en je gemiddelde tempo na afloop van de training"
+    },
+    {
+      "name": "Setup_Feature_Chart_Title",
+      "value": "Gedetailleerde statistieken"
+    },
+    {
+      "name": "Setup_Feature_Route_Message",
+      "value": "Neem je hardloop-, wandel- of fietstrainingen met de hoogst mogelijke nauwkeurigheid op je telefoon op."
+    },
+    {
+      "name": "Setup_Feature_Route_Title",
+      "value": "Nauwkeurig traceren"
+    },
+    {
+      "name": "Setup_StartButton",
+      "value": "Aan de slag"
+    },
+    {
+      "name": "Setup_Introduction",
+      "value": "de hardloopapp die daadwerkelijk om je privacy geeft, waarbij je geen gebruikersaccount hoeft aan te maken of gevoelige gegevens hoeft te geven die dan op een server “in the middle of nowhere” liggen.\nHier hebben we het later nog wel over, laten we later voor nu gewoon beginnen."
+    },
+    {
+      "name": "Setup_Headline",
+      "value": "welkom bij"
+    },
+    {
+      "name": "Settings_AppVersion",
+      "value": "Appversie"
+    },
+    {
+      "name": "Settings_PrivacyPolicy",
+      "value": "Privacybeleid"
+    },
+    {
+      "name": "HKImport_ImportAll_Error",
+      "value": "Sommige Huawei Gezondheid-trainingen konden niet worden toegevoegd. Ze verschijnen wel in de lijst, maar probeer het later nog eens."
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Message",
+      "value": "Wil je alle Huawei Gezondheid-trainingen importeren in OutRun; dit kan even duren?"
+    },
+    {
+      "name": "HKImport_ImportAll_Alert_Title",
+      "value": "Alle trainingen importeren?"
+    },
+    {
+      "name": "HKImport_Error",
+      "value": "De Huawei Gezondheid-training kon niet worden toegevoegd, probeer het later nog eens."
+    },
+    {
+      "name": "HKImport_Alert_Message",
+      "value": "Wil je deze Huawei Gezondheid-trainingen importeren in OutRun?"
+    },
+    {
+      "name": "HKImport_Alert_Title",
+      "value": "Importeer deze training?"
+    },
+    {
+      "name": "ImportList_ImportAll",
+      "value": "Importeer alle"
+    },
+    {
+      "name": "ImportList_Error_FetchFailed_Message",
+      "value": "Er ging iets mis bij het ophalen van trainingen uit Huawei Gezondheid."
+    },
+    {
+      "name": "ImportList_Title",
+      "value": "Importeer"
+    },
+    {
+      "name": "Settings_ReleaseStatus",
+      "value": "Vrijgavestatus"
+    },
+    {
+      "name": "Settings_AppInfo",
+      "value": "App-informatie"
+    },
+    {
+      "name": "Settings_SourceCode_Error",
+      "value": "De link kon niet worden geopend omdat het systeem deze afwees."
+    },
+    {
+      "name": "Settings_SourceCode",
+      "value": "Bekijk de broncode"
+    },
+    {
+      "name": "Settings_Email_Error",
+      "value": "Er lijkt geen e-mail-app op uw telefoon te staan of HarmonyOS kan deze niet openen. Je kunt wel zelf een e-mail sturen naar support@tadris.de voor hulp bij eventuele problemen met betrekking tot de app."
+    },
+    {
+      "name": "Settings_Email",
+      "value": "E-mail"
+    },
+    {
+      "name": "Settings_TermsOfService",
+      "value": "Voorwaarden van de dienst"
+    },
+    {
+      "name": "Settings_Support",
+      "value": "Steun"
+    },
+    {
+      "name": "Settings_RecordingPreferences_Message",
+      "value": "Als je tijdens het opnemen van een training een crash of soortgelijk gedrag ervaart, probeer dan om ‘Toon kaart’ uit te schakelen, omdat de meeste van de bij ons bekende crashes te maken hebben met het tonen van de kaart.\n\nAls ‘Toon tempo’ is ingeschakeld in plaats van de snelheid, wordt het tempo getoond. Als ‘Toon rolsnelheid’ op de weergegeven snelheid of tempo staat, wordt een gemiddelde van de laatste kilometer getoond. Zo niet, dan wordt de huidige snelheid of het totale tempo getoond."
+    },
+    {
+      "name": "Settings_DisplayRollingSpeed",
+      "value": "Weergave rollende snelheid"
+    },
+    {
+      "name": "Settings_DisplayPace",
+      "value": "Weergave tempo"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Off",
+      "value": "Uit (niet aanbevolen)"
+    },
+    {
+      "name": "Settings_GPSAccuracy_LastResort",
+      "value": "Laatste toevlucht"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Acceptable",
+      "value": "Acceptabel"
+    },
+    {
+      "name": "Settings_GPSAccuracy_High",
+      "value": "Hoog"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Standard",
+      "value": "Standaard"
+    },
+    {
+      "name": "Settings_GPSAccuracy_Text",
+      "value": "Bij ontvangst van GPS-signalen worden ze met een zekere nauwkeurigheid verzonden om te bepalen of de gegevens geschikt zijn voor gebruik. Afhankelijk van de manier waarop je dit filter instelt, zal de kwaliteit van je opgenomen trainingen variëren.\n\nIdealiter blijft het filter op ‘Standaard’ staan, maar mocht er sprake zijn van complicaties met uw gegevens (bijv. te onnauwkeurig of alles wordt uitgefilterd) dan kun je een van de andere opties proberen."
+    },
+    {
+      "name": "Settings_GPSAccuracy_Title",
+      "value": "Gewenste nauwkeurigheid"
+    },
+    {
+      "name": "Settings_GPSAccuracy",
+      "value": "GPS-nauwkeurigheid"
+    },
+    {
+      "name": "Settings_MapVisibility",
+      "value": "Toon kaart"
+    },
+    {
+      "name": "Settings_StandardWorkoutType_Message",
+      "value": "Het trainingstype dat je kiest, wordt de standaard bij het opnemen van een nieuwe training. Je kunt nog steeds een ander type selecteren door lang op de plusknop te drukken of door op het typeplaatje in het opnamescherm te drukken."
+    },
+    {
+      "name": "Settings_StandardWorkoutType",
+      "value": "Standaardtype"
+    },
+    {
+      "name": "Settings_RecordingPreferences",
+      "value": "Opnamevoorkeuren"
+    },
+    {
+      "name": "Settings_UnitPick_Message",
+      "value": "De gekozen eenheid zal worden gebruikt om gegevens weer te geven"
+    },
+    {
+      "name": "Settings_UnitPick_Headline",
+      "value": "Kies eenheid"
+    },
+    {
+      "name": "Settings_WeightUnit",
+      "value": "Gewichtseenheid"
+    },
+    {
+      "name": "Settings_EnergyUnit",
+      "value": "Energie-eenheid"
+    },
+    {
+      "name": "Settings_SpeedUnit",
+      "value": "Snelheidseenheid"
+    },
+    {
+      "name": "Settings_AltitudeUnit",
+      "value": "Hoogte-eenheid"
+    },
+    {
+      "name": "Settings_DistanceUnit",
+      "value": "Afstandseenheid"
+    },
+    {
+      "name": "Settings_UnitPreferences",
+      "value": "Eenheidvoorkeuren"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Message",
+      "value": "Er ging iets mis terwijl je probeerde je gegevens in Huawei Gezondheid te verwijderen, sommige gegevens staan er mogelijk nog in. Je kunt de resterende gegevens in de Huawei Gezondheid-app verwijderen."
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Error_Title",
+      "value": "Kon niet verwijderen"
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Message",
+      "value": "Er ging iets mis terwijl je probeerde je gegevens in de app te verwijderen, sommige kunnen er nog steeds zijn. Probeer het later nog eens."
+    },
+    {
+      "name": "Settings_DeleteAll_Error_Title",
+      "value": "Kon niet verwijderen"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Message",
+      "value": "Wil je de trainingen die zijn opgenomen in de Huawei Gezondheid-app bewaren of wil je die ook verwijderen?"
+    },
+    {
+      "name": "Settings_DeleteAll_AppleHealth_Title",
+      "value": "Trainingen uit Huawei Gezondheid verwijderen?"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Message",
+      "value": "Weet je zeker dat je alle gegevens die door deze app zijn opgeslagen wilt verwijderen? Dit omvat alle trainingen die je hebt opgenomen en alle instellingen. Er kunnen geen trainingsgegevens worden hersteld als er geen backup wordt gemaakt in Huawei Gezondheid en je instellingen gaan permanent verloren."
+    },
+    {
+      "name": "Settings_DataPreferences_Message",
+      "value": "Backups in OutRun zijn gewoon bestanden; dit in tegenstelling tot de meeste andere apps. Je hebt geen speciale tools nodig om ze in de app te importeren of over te zetten op een ander apparaat. Ze blijven ook lokaal, tenzij je ze in de cloud opslaat.\n\nBij het maken van een backup krijg je een ‘.orbup’-bestand, dat je kunt delen met welke andere app je maar wilt. Wees je ervan bewust, dat de gegevens in dat bestand niet versleuteld zijn: het sturen naar iemand of het uploaden naar een dienst kan je privacy in gevaar brengen.\n\nOm een backup te importeren, selecteer je een ‘.orbup’-bestand van waar je deze eerder hebt opgeslagen. De app zal dan alle trainingen in de backup importeren, waarbij er automatisch voor gezorgd wordt dat er geen duplicaten zijn."
+    },
+    {
+      "name": "Settings_DataPreferences",
+      "value": "Gegevensvoorkeuren"
+    },
+    {
+      "name": "Settings_SyncAll_AllSyncedAlready",
+      "value": "Het lijkt erop dat alle trainingen al gesynchroniseerd zijn."
+    },
+    {
+      "name": "Settings_SyncAll_Error",
+      "value": "Er ging iets mis bij het synchroniseren van de ongesynchroniseerde trainingen met Huawei Gezondheid. Sommige trainingen zijn misschien niet gesynchroniseerd."
+    },
+    {
+      "name": "Settings_SyncAll_Success",
+      "value": "Alle ongesynchroniseerde trainingen werden met succes gesynchroniseerd met Huawei Gezondheid."
+    },
+    {
+      "name": "Settings_SyncAll",
+      "value": "Sync alle ongesynchroniseerde trainingen"
+    },
+    {
+      "name": "Settings_ImportFromAppleHealth",
+      "value": "Importeren uit Huawei Gezondheid"
+    },
+    {
+      "name": "Settings_Name",
+      "value": "Naam"
+    },
+    {
+      "name": "Discard",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "Settings_DeleteAll_Confirmation_Title",
+      "value": "Alles verwijderen?"
+    },
+    {
+      "name": "Settings_DeleteAllData",
+      "value": "Verwijder alle gegevens"
+    },
+    {
+      "name": "Settings_ExportBackupData_Message",
+      "value": "Training exporteren"
+    },
+    {
+      "name": "Settings_ImportBackupData_Message",
+      "value": "Importeer unieke trainingen"
+    },
+    {
+      "name": "Settings_ImportBackupData_Error",
+      "value": "Kon de backup niet goed lezen. Neem contact op met de ondersteuning voor aanvullende informatie."
+    },
+    {
+      "name": "Settings_ImportBackupData_Success",
+      "value": "De unieke trainingen uit je backup zijn geïmporteerd. Trainingen die al in de app aanwezig waren, zijn weggelaten."
+    },
+    {
+      "name": "Settings_ImportBackupData",
+      "value": "Backup importeren"
+    },
+    {
+      "name": "Settings_CreateBackup",
+      "value": "Maak backup"
+    },
+    {
+      "name": "Settings_AutoImportHealthWorkouts",
+      "value": "Automatisch importeren van trainingen"
+    },
+    {
+      "name": "Settings_SynchronizeWorkoutsWithAppleHealth",
+      "value": "Synchroniseer trainingen"
+    },
+    {
+      "name": "Settings_SynchronizeWeightWithAppleHealth",
+      "value": "Synchroniseer gewicht"
+    },
+    {
+      "name": "Settings_AppleHealthPreferences_Message",
+      "value": "Als de Sync-opties zijn ingeschakeld, probeert de app te synchroniseren met Huawei Gezondheid. Hierdoor worden nieuwe gegevens door deze app automatisch opgeslagen in de Gezondheid-app. Als je gewicht in Huawei Gezondheid verandert, wordt het ook hier automatisch aangepast.\n\nAls de optie ‘Automatisch importeren van trainingen’ is ingeschakeld, probeert de app automatisch nieuwe trainingen die door andere apps zijn toegevoegd, te importeren in de lokale database.\n\nMet ‘Sync alle ongesynchroniseerde trainingen’ worden alle nog niet gesynchroniseerde trainingen in deze app gesynchroniseerd met Huawei Gezondheid."
+    },
+    {
+      "name": "Settings_AppleHealthPreferences",
+      "value": "Huawei Gezondheid-voorkeuren"
+    },
+    {
+      "name": "Settings_Weight",
+      "value": "Gewicht"
+    },
+    {
+      "name": "Settings_UserSettings",
+      "value": "Gebruikersinstellingen"
+    },
+    {
+      "name": "Settings_Contribution_Translators",
+      "value": "Vertalers"
+    },
+    {
+      "name": "Settings_Contribution_CodeContributors",
+      "value": "Code-bijdragers"
+    },
+    {
+      "name": "Settings_Contribution_Maintainers",
+      "value": "Onderhouders"
+    },
+    {
+      "name": "Settings_Contribution",
+      "value": "Bijdrage"
+    },
+    {
+      "name": "Changelog_1_2_2",
+      "value": "Na het ontvangen van een merkklacht \"OutRun\" zal nu in het Verenigd Koninkrijk \"Out-Run\" worden genoemd. Deze update heeft als belangrijkste doel deze klacht te behandelen.\n\nDaarnaast bevat het de volgende bug fixes:\n\n- soms werden gegevens niet goed toegevoegd aan Apple Health, dit moet nu worden opgelost\n- de stijgende en dalende hoogte werden in de statistieken omgewisseld, nu staan ze in de juiste volgorde.\n- er zijn wat stijl problemen geweest door veranderingen in iOS 14, alles moet er weer normaal uitzien.\n\nEn voor deze update is er niets meer veranderd.\n\nAls u vragen of feedback heeft, dan kunt u zich wenden tot outrun@tadris.de.\n\nTim, de ontwikkelaar."
+    },
+    {
+      "name": "Changelog_1_3",
+      "value": "Het is behoorlijk lang geleden sinds de laatste update en hoewel ik nog steeds bezig ben met enkele meer fundamentele veranderingen in OutRun, markeert deze update ook een enorme stap in de evolutie van deze app.\n\nIk ben erg blij om aan te kondigen dat OutRun nu beschikbaar zal zijn in ELF extra talen, wat ons op een totaal van dertien brengt en dat allemaal dankzij een paar echt geweldige mensen, die te vinden zijn in de README van dit project in de broncode-repository .\n\nVerder is er niet veel veranderd in deze versie:\n\n- Er is een nieuw tabblad voor bijdragers in de instellingen, met een lijst van alle mensen die aanzienlijk aan OutRun hebben toegevoegd\n- en de broncode-knop is verplaatst van 'Support' naar 'App-Info'\n\nEn dat is dat.\n\nAls je vragen of feedback hebt, neem dan gerust contact op via outrun@tadris.de.\n\nTim, de ontwikkelaar."
+    },
+    {
+      "name": "NSMotionUsageDescription",
+      "value": "Deze app heeft bewegingsgerelateerde traceermogelijkheden nodig om bijvoorbeeld stappen tijdens een training vast te leggen"
+    },
+    {
+      "name": "NSLocationWhenInUseUsageDescription",
+      "value": "Deze app heeft je locatie nodig om trainingen te volgen"
+    },
+    {
+      "name": "NSLocationAlwaysUsageDescription",
+      "value": "Deze app heeft je locatie nodig om trainingen te volgen"
+    },
+    {
+      "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+      "value": "Deze app heeft je locatie nodig om trainingen te volgen"
+    },
+    {
+      "name": "NSHealthUpdateUsageDescription",
+      "value": "Deze app heeft toegang nodig tot je gezondheidsgegevens om ze te kunnen lezen en eventueel gemaakte trainingen van deze app te corrigeren"
+    },
+    {
+      "name": "NSHealthShareUsageDescription",
+      "value": "Deze app heeft toegang nodig tot je gezondheidsgegevens om de gemaakte trainingen op te slaan"
+    }
+  ]
+}
