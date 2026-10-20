@@ -79,17 +79,17 @@ does, open the same dialog and generate it again.
 
 ## Function List Comparison
 
-| Category | Rows | Both | iOS | HarmonyOS |
+| Module | Rows | Both | iOS | HarmonyOS |
 |---|---:|---:|---:|---:|
-| Start and setup | 31 | 29 (94%) | 2 | 0 |
-| Timeline and sorting | 26 | 25 (96%) | 0 | 1 |
-| Recording a workout | 27 | 18 (67%) | 9 | 0 |
-| Workout details and map | 37 | 22 (59%) | 13 | 2 |
-| Editing a workout | 21 | 17 (81%) | 2 | 2 |
-| Settings | 54 | 28 (52%) | 23 | 3 |
-| Health sync | 19 | 14 (74%) | 4 | 1 |
-| Backup and data | 15 | 8 (53%) | 7 | 0 |
-| Global and launch | 18 | 8 (44%) | 9 | 1 |
+| Start Screen | 1 | 1 (100%) | 0 | 0 |
+| Setup | 30 | 28 (93%) | 2 | 0 |
+| Tab Bar | 15 | 14 (93%) | 1 | 0 |
+| Workout List | 15 | 14 (93%) | 0 | 1 |
+| New Workout | 27 | 18 (67%) | 9 | 0 |
+| Workout Detail | 37 | 22 (59%) | 13 | 2 |
+| Edit Workout | 21 | 17 (81%) | 2 | 2 |
+| Settings | 84 | 47 (56%) | 33 | 4 |
+| Global | 18 | 8 (44%) | 9 | 1 |
 | **Total** | **248** | **169 (68%)** | **69** | **10** |
 
 Many iOS-only rows are a difference in how finely the two lists were written, not a missing
